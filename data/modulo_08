@@ -1,0 +1,59 @@
+{
+  "courseTitle": "Inglês Instrumental em Teologia Reformada",
+  "courseDescription": "Um curso online para autodidatas, focado no desenvolvimento da habilidade de leitura e compreensão de textos teológicos reformados em inglês.",
+  "modules": [
+    {
+      "moduleId": "M08",
+      "moduleTitle": "Lendo Fontes Primárias: Os Puritanos",
+      "learningObjectives": [
+        "Compreender o estilo de escrita e o contexto histórico dos teólogos puritanos.",
+        "Aprender vocabulário específico encontrado nos escritos puritanos.",
+        "Aplicar as habilidades gramaticais (S-V-O, voz passiva, conectores, etc.) para analisar um texto do século XVII.",
+        "Praticar a desconstrução de sentenças longas para extrair o argumento principal."
+      ],
+      "content": {
+        "html": "<div><h1>Módulo 8: Lendo Fontes Primárias - Os Puritanos</h1><p>Bem-vindo à fase de aplicação do nosso curso! Agora vamos usar as ferramentas que você aprendeu para ler textos teológicos reais. Começaremos com os Puritanos (séculos XVI-XVII), um grupo de pastores e teólogos conhecidos por sua profundidade doutrinária e sua preocupação com a piedade prática.</p><p>Hoje, analisaremos um dos trechos mais famosos do teólogo puritano <strong>John Owen</strong>, de sua obra clássica <em>'The Mortification of Sin'</em> (A Mortificação do Pecado).</p><hr><h2>1. O Texto Original</h2><blockquote style='font-style: italic; border-left: 4px solid #ccc; padding-left: 15px; margin-left: 20px;'>“Be killing sin or it will be killing you. A sin that is not being mortified will do one of two things: it will either deaden the soul and deprive it of all its vigor and comfort, or it will break out into open, scandalous rebellion. The vigor, power, and comfort of our spiritual life depends on the mortification of sin's deceit.”</blockquote><hr><h2>2. Análise Guiada</h2><p>Vamos desconstruir o texto de Owen, frase por frase.</p><h3>Frase 1:</h3><p><em>“Be killing sin or it will be killing you.”</em></p><ul><li><strong>Análise Gramatical:</strong> Esta é uma construção de comando (imperativo) seguida por uma consequência. 'Be killing' é uma forma enfática de 'kill', sugerindo uma ação contínua. 'it will be killing you' é uma forma futura contínua, indicando o que o pecado fará constantemente se não for combatido.</li><li><strong>Vocabulário:</strong><ul><li><strong>To kill:</strong> matar, destruir.</li><li><strong>Sin:</strong> pecado.</li></ul></li><li><strong>Tradução Comentada:</strong> 'Esteja matando o pecado, ou ele estará matando você.' A ideia é de uma luta constante e ativa.</li></ul><h3>Frase 2:</h3><p><em>“A sin that is not being mortified will do one of two things: it will either deaden the soul and deprive it of all its vigor and comfort, or it will break out into open, scandalous rebellion.”</em></p><ul><li><strong>Análise Gramatical:</strong> Esta é uma frase complexa.<ul><li>O sujeito é 'A sin'.</li><li>'that is not being mortified' é uma <strong>oração relativa</strong> (Módulo 6) que descreve o pecado. Note a <strong>voz passiva</strong> ('is being mortified' - está sendo mortificado).</li><li>O verbo principal é 'will do'.</li><li>A estrutura 'either ... or ...' apresenta duas consequências possíveis.</li></ul></li><li><strong>Vocabulário:</strong><ul><li><strong>To mortify:</strong> mortificar, fazer morrer, subjugar.</li><li><strong>To deaden:</strong> amortecer, tirar a vida/sensibilidade.</li><li><strong>Soul:</strong> alma.</li><li><strong>To deprive:</strong> privar, tirar.</li><li><strong>Vigor:</strong> vigor, força.</li><li><strong>To break out:</strong> irromper, manifestar-se subitamente.</li><li><strong>Scandalous rebellion:</strong> rebelião escandalosa e aberta.</li></ul></li><li><strong>Tradução Comentada:</strong> 'Um pecado que não está sendo mortificado fará uma de duas coisas: ou ele irá amortecer a alma e privá-la de todo o seu vigor e consolo, ou ele irá irromper em rebelião aberta e escandalosa.'</li></ul><h3>Frase 3:</h3><p><em>“The vigor, power, and comfort of our spiritual life depends on the mortification of sin's deceit.”</em></p><ul><li><strong>Análise Gramatical:</strong> Uma frase mais direta.<ul><li>O sujeito é composto: 'The vigor, power, and comfort'.</li><li>'of our spiritual life' é uma <strong>frase preposicional</strong> (Módulo 4) que modifica o sujeito.</li><li>O verbo é 'depends on' (depende de).</li><li>O objeto é 'the mortification'.</li><li>'of sin's deceit' é outra frase preposicional que modifica 'mortification'.</li></ul></li><li><strong>Vocabulário:</strong><ul><li><strong>Power:</strong> poder.</li><li><strong>Comfort:</strong> consolo, conforto.</li><li><strong>Spiritual life:</strong> vida espiritual.</li><li><strong>Deceit:</strong> engano, fraude.</li></ul></li><li><strong>Tradução Comentada:</strong> 'O vigor, o poder e o consolo da nossa vida espiritual dependem da mortificação do engano do pecado.'</li></ul><hr><h2>3. Resumo do Argumento</h2><p>Owen argumenta que não existe neutralidade na batalha espiritual. O crente deve estar em um processo ativo e contínuo ('be killing') de subjugar o pecado. Se essa luta for negligenciada, o pecado inevitavelmente produzirá um de dois resultados destrutivos: um definhamento espiritual interno ou uma queda moral externa e pública. Portanto, ele conclui que a saúde da vida espiritual está diretamente ligada a essa batalha.</p></div>"
+      },
+      "flashcards": [
+        { "front": "The Puritans", "back": "Teólogos e pastores (séc. XVI-XVII) conhecidos pela profundidade doutrinária e foco na piedade." },
+        { "front": "John Owen", "back": "Um dos mais importantes teólogos puritanos, conhecido por obras como 'A Mortificação do Pecado'." },
+        { "front": "To mortify / Mortification", "back": "Mortificar / Mortificação: O ato de fazer o pecado morrer, subjugar suas paixões." },
+        { "front": "Vigor", "back": "Vigor, força, vitalidade." },
+        { "front": "Deceit", "back": "Engano, fraude, trapaça." },
+        { "front": "To deprive", "back": "Privar, despojar, tirar algo de alguém." },
+        { "front": "Soul", "back": "Alma." },
+        { "front": "Scandalous", "back": "Escandaloso, vergonhoso." }
+      ],
+      "exercises": [
+        {
+          "question": "De acordo com o trecho de John Owen, qual é o resultado de não mortificar o pecado?",
+          "options": ["Apenas um pequeno desconforto espiritual.", "O pecado eventualmente desaparecerá por si só.", "A alma será amortecida ou o pecado irromperá em rebelião aberta.", "A pessoa se tornará mais forte."],
+          "correct": 2,
+          "difficulty": "easy",
+          "explanation": "Owen apresenta duas consequências inevitáveis: ou a alma é amortecida e privada de vigor, ou o pecado se manifesta em rebelião escandalosa."
+        },
+        {
+          "question": "Na frase 'A sin that is not being mortified...', a parte 'is not being mortified' está na voz...",
+          "options": ["Ativa", "Passiva", "Média", "Reflexiva"],
+          "correct": 1,
+          "difficulty": "medium",
+          "explanation": "A estrutura 'verbo to be' (is) + particípio passado (mortified) é a marca da voz passiva. O pecado é aquele que 'está sendo mortificado' (ou não)."
+        },
+        {
+          "question": "Segundo a última frase do texto, do que depende a saúde da vida espiritual?",
+          "options": ["De evitar textos difíceis.", "De ter sentimentos de consolo.", "Da mortificação do engano do pecado.", "Da rebelião aberta."],
+          "correct": 2,
+          "difficulty": "medium",
+          "explanation": "A frase final conecta diretamente 'The vigor, power, and comfort of our spiritual life' com 'the mortification of sin's deceit'."
+        },
+        {
+          "question": "O que a construção 'Be killing sin...' sugere sobre a natureza dessa ação?",
+          "options": ["Que é uma ação única, feita uma só vez.", "Que é uma sugestão opcional.", "Que deve ser uma ação contínua e constante.", "Que é uma ação feita por Deus, não pela pessoa."],
+          "correct": 2,
+          "difficulty": "hard",
+          "explanation": "O uso do gerúndio ('-ing') na forma de comando ('Be killing') enfatiza a natureza contínua e processual da mortificação. Não é um evento, mas um estilo de vida."
+        }
+      ]
+    }
+  ]
+}
