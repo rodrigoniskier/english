@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inglês Instrumental em Teologia Reformada</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1 id="course-title">Inglês Instrumental em Teologia Reformada</h1>
+        <p id="course-description"></p>
+    </header>
+    <div class="main-container">
+        <nav id="nav-left">
+            <h2>Módulos Teóricos</h2>
+            <button id="lexicon-btn">Glossário do Curso</button>
+            <hr>
+            <ul id="theory-module-list"></ul>
+        </nav>
+        <main id="main-content">
+            <h2 id="module-title">Bem-vindo!</h2>
+            <div id="module-display-area">
+                <p>Selecione um módulo teórico no menu à esquerda ou um módulo prático no menu à direita para começar.</p>
+            </div>
+        </main>
+        <aside id="nav-right">
+            <h2>Módulos Práticos</h2>
+            <ul id="practice-module-list"></ul>
+            <button id="custom-quiz-btn">Prova Personalizada</button>
+        </aside>
+    </div>
+    <footer>
+        <p>Projeto de curso desenvolvido por Rodrigo Niskier e Gemini.</p>
+    </footer>
+    <div id="quiz-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h2>Criar Prova Personalizada</h2>
+            <p>Selecione de 1 a 5 módulos para gerar uma prova.</p>
+            <form id="quiz-setup-form">
+                <div id="quiz-module-options"></div>
+                <button type="submit" id="generate-quiz-btn">Gerar Prova</button>
+            </form>
+            <p id="quiz-error-message" class="error-message"></p>
+        </div>
+    </div>
+</body>
+</html>
