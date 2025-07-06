@@ -1,0 +1,53 @@
+{
+  "courseTitle": "Inglês Instrumental em Teologia Reformada",
+  "courseDescription": "Um curso online para autodidatas, focado no desenvolvimento da habilidade de leitura e compreensão de textos teológicos reformados em inglês.",
+  "modules": [
+    {
+      "moduleId": "M11",
+      "moduleTitle": "Lendo a Teologia Sistemática Contemporânea",
+      "learningObjectives": [
+        "Compreender o estilo e a estrutura de um texto de teologia sistemática.",
+        "Aprender a identificar a estrutura 'Definição - Classificação - Explicação' comum neste gênero.",
+        "Analisar o uso de orações relativas e verbos modais em definições teológicas.",
+        "Aprender vocabulário-chave relacionado aos atributos de Deus."
+      ],
+      "content": {
+        "html": "<div><h1>Módulo 11: Lendo a Teologia Sistemática Contemporânea</h1><p>A Teologia Sistemática organiza as doutrinas da fé cristã em um sistema lógico e coerente. Autores contemporâneos como Wayne Grudem, Louis Berkhof e R.C. Sproul são conhecidos por um estilo de escrita que, embora acadêmico, busca clareza e estrutura. Aprender a identificar os padrões deste gênero torna a leitura muito mais rápida e eficiente.</p><p>Analisaremos um trecho do capítulo sobre os Atributos de Deus da obra <em>'Systematic Theology'</em> de Wayne Grudem.</p><hr><h2>1. O Texto Original</h2><blockquote style='font-style: italic; border-left: 4px solid #ccc; padding-left: 15px; margin-left: 20px;'>“The attributes of God are those perfections of God which are true of his being. We may classify the attributes of God in various ways. A common way is to distinguish between his incommunicable attributes and his communicable attributes. The <strong>incommunicable attributes</strong> are those attributes that God does not share or 'communicate' to us. They include his independence, his unchangeableness, his eternity, and his omnipresence. The <strong>communicable attributes</strong> are those attributes that God shares or 'communicates' with us. Examples of these are attributes such as love, mercy, knowledge, and justice.”</blockquote><hr><h2>2. Análise Guiada</h2><p>A escrita de Grudem segue um padrão muito claro de 'Definição → Classificação → Explicação'.</p><h3>Frase 1: A Definição</h3><p><em>“The attributes of God are those perfections of God which are true of his being.”</em></p><ul><li><strong>Análise Estrutural:</strong> Esta é uma frase de definição clássica: 'X é Y'. O autor começa definindo seu termo principal, 'atributos'.</li><li><strong>Análise Gramatical:</strong> Note a oração relativa '<strong>which are true of his being</strong>'. Ela qualifica e especifica o que são essas 'perfeições'.</li><li><strong>Vocabulário-Chave:</strong><ul><li><strong>Attributes:</strong> atributos, características.</li><li><strong>Perfections:</strong> perfeições.</li><li><strong>Being:</strong> ser, essência.</li></ul></li><li><strong>Tradução Comentada:</strong> 'Os atributos de Deus são aquelas perfeições de Deus que são verdadeiras sobre o seu ser.'</li></ul><h3>Frase 2-3: A Classificação</h3><p><em>“We may classify the attributes of God in various ways. A common way is to distinguish between his incommunicable attributes and his communicable attributes.”</em></p><ul><li><strong>Análise Estrutural:</strong> O autor agora informa que irá categorizar o tópico. Esta é uma placa de sinalização para o leitor: 'prepare-se, vou dividir o assunto em partes'.</li><li><strong>Análise Gramatical:</strong> O verbo modal <strong>'may'</strong> ('We may classify' - Nós podemos classificar) indica que esta é uma das possíveis formas de classificação, não a única. 'To distinguish' é um infinitivo que expressa a ação do 'modo comum'.</li><li><strong>Vocabulário-Chave:</strong><ul><li><strong>To classify:</strong> classificar.</li><li><strong>To distinguish:</strong> distinguir, diferenciar.</li><li><strong>Incommunicable:</strong> incomunicável (que não se pode compartilhar).</li><li><strong>Communicable:</strong> comunicável (que se pode compartilhar).</li></ul></li><li><strong>Tradução Comentada:</strong> 'Nós podemos classificar os atributos de Deus de várias maneiras. Uma maneira comum é distinguir entre seus atributos incomunicáveis e seus atributos comunicáveis.'</li></ul><h3>Frase 4-6: A Explicação</h3><p><em>“The incommunicable attributes are those attributes that God does not share... They include his independence... The communicable attributes are those attributes that God shares... Examples of these are attributes such as love, mercy...”</em></p><ul><li><strong>Análise Estrutural:</strong> O autor agora define cada uma das categorias que acabou de criar, usando a mesma estrutura 'X é Y' e fornecendo exemplos claros para cada uma.</li><li><strong>Análise Gramatical:</strong> Novamente, ele usa orações relativas ('that God does not share' e 'that God shares') para definir cada termo com precisão.</li><li><strong>Vocabulário-Chave:</strong><ul><li><strong>To share:</strong> compartilhar.</li><li><strong>Independence:</strong> independência, assidade.</li><li><strong>Unchangeableness:</strong> imutabilidade.</li><li><strong>Eternity:</strong> eternidade.</li><li><strong>Omnipresence:</strong> onipresença.</li><li><strong>Mercy:</strong> misericórdia.</li><li><strong>Justice:</strong> justiça.</li></ul></li><li><strong>Tradução Comentada:</strong> 'Os atributos incomunicáveis são aqueles atributos que Deus não compartilha ou 'comunica' a nós. Eles incluem sua independência, sua imutabilidade, sua eternidade e sua onipresença. Os atributos comunicáveis são aqueles que Deus compartilha ou 'comunica' conosco. Exemplos destes são atributos como amor, misericórdia, conhecimento e justiça.'</li></ul></div>"
+      },
+      "flashcards": [
+        { "front": "Systematic Theology", "back": "Gênero literário que organiza as doutrinas da fé em um sistema lógico e coerente." },
+        { "front": "Attribute", "back": "Atributo, característica, perfeição." },
+        { "front": "Incommunicable Attributes", "back": "Atributos que Deus NÃO compartilha com a criação (ex: onipresença, eternidade)." },
+        { "front": "Communicable Attributes", "back": "Atributos que Deus compartilha, em certa medida, com a criação (ex: amor, justiça)." },
+        { "front": "To classify", "back": "Classificar, categorizar." },
+        { "front": "To distinguish", "back": "Distinguir, diferenciar." },
+        { "front": "To share", "back": "Compartilhar." },
+        { "front": "Omnipresence", "back": "Onipresença (estar em todos os lugares)." },
+        { "front": "Unchangeableness", "back": "Imutabilidade (não mudar)." }
+      ],
+      "exercises": [
+        {
+          "question": "Qual é a principal característica do estilo de escrita da teologia sistemática, conforme o texto?",
+          "options": ["Uso de linguagem poética e ambígua.", "Estrutura clara com definições, classificações e explicações.", "Foco em histórias e narrativas pessoais.", "Argumentos curtos e informais."],
+          "correct": 1,
+          "difficulty": "easy",
+          "explanation": "O texto de Grudem exemplifica perfeitamente o método da teologia sistemática: definir termos, classificar ideias e explicar cada parte de forma ordenada."
+        },
+        {
+          "question": "De acordo com a definição de Grudem, o amor de Deus seria um atributo:",
+          "options": ["Incomunicável", "Impossível de entender", "Comunicável", "Negativo"],
+          "correct": 2,
+          "difficulty": "medium",
+          "explanation": "Grudem lista explicitamente o amor (love) como um exemplo de atributo comunicável, pois os seres humanos também podem, em sua medida, expressar amor."
+        },
+        {
+          "question": "O que o uso do verbo modal 'may' em 'We may classify...' indica sobre a classificação que Grudem apresenta?",
+          "options": ["Que é a única classificação correta possível.", "Que o autor não tem certeza sobre a classificação.", "Que esta é uma obrigação para todos os teólogos.", "Que esta é uma forma comum e válida de classificar, mas podem existir outras."],
+          "correct": 3,
+          "difficulty": "hard",
+          "explanation": "O modal 'may' expressa possibilidade ou permissão. Grudem está sinalizando que este é um método útil, mas não o único ou o mais obrigatório."
+        }
+      ]
+    }
+  ]
+}
