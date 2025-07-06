@@ -1,0 +1,41 @@
+{
+  "courseTitle": "Inglês Instrumental em Teologia Reformada",
+  "courseDescription": "Um curso online para autodidatas, focado no desenvolvimento da habilidade de leitura e compreensão de textos teológicos reformados em inglês.",
+  "modules": [
+    {
+      "moduleId": "M01",
+      "moduleTitle": "Fundamentos e o Léxico Teológico Essencial",
+      "learningObjectives": [
+        "Compreender o que é 'inglês instrumental' e seu foco na leitura e compreensão.",
+        "Aprender a usar cognatos para acelerar a leitura.",
+        "Identificar e evitar 'falsos cognatos' comuns.",
+        "Memorizar e compreender as 30 palavras teológicas mais essenciais da tradição reformada."
+      ],
+      "content": {
+        "html": "<div><h1>Módulo 1: Fundamentos e o Léxico Teológico Essencial</h1><p>Bem-vindo à sua jornada no Inglês Instrumental para Teologia! O objetivo deste curso não é a fluência para conversação, mas sim uma habilidade específica e poderosa: a capacidade de ler e compreender a rica literatura da tradição reformada diretamente em inglês. Vamos começar com as estratégias mais eficazes.</p><h2>Estratégia 1: Use os Cognatos a seu Favor</h2><p>Cognatos são palavras amigas. Elas se parecem com palavras em português e têm o mesmo significado. O inglês teológico está repleto delas. Reconhecê-las é um atalho para a compreensão.</p><p>Exemplos: <i>revelation, justification, regeneration, glorification, doctrine, theology, sanctification, mediation, propitiation.</i></p><h2>Estratégia 2: Cuidado com os Falsos Cognatos</h2><p>Falsos cognatos (ou falsos amigos) são palavras que parecem significar uma coisa, mas significam outra. Conhecê-los evita graves erros de interpretação.</p><ul><li><b>Actually:</b> significa 'na verdade', 'de fato'. <u>Não</u> significa 'atualmente'.</li><li><b>Eventually:</b> significa 'finalmente', 'com o tempo', 'por fim'. <u>Não</u> significa 'eventualmente' (que seria 'occasionally').</li><li><b>Pretend:</b> significa 'fingir'. <u>Não</u> significa 'pretender' (que seria 'to intend').</li><li><b>Comprehensive:</b> significa 'abrangente', 'completo'. <u>Não</u> significa 'compreensivo' (no sentido de empático, que seria 'understanding').</li></ul><h2>Estratégia 3: Domine o Léxico Teológico Essencial</h2><p>Memorizar um pequeno número de palavras-chave de alta frequência lhe dará acesso imediato ao coração dos textos reformados. Abaixo estão as 30 palavras mais essenciais para começar.</p><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: var(--color-primary); color: white;'><th style='padding: 1rem; border: 1px solid #ddd;'>Palavra em Inglês</th><th style='padding: 1rem; border: 1px solid #ddd;'>Tradução</th><th style='padding: 1rem; border: 1px solid #ddd;'>Exemplo de Uso Teológico</th></tr></thead><tbody><tr><td><strong>Covenant</strong> (n.)</td><td>Aliança, Pacto</td><td>God established a <strong>covenant</strong> of grace with humanity.</td></tr><tr><td><strong>Grace</strong> (n.)</td><td>Graça</td><td>We are saved by <strong>grace</strong> through faith.</td></tr><tr><td><strong>Faith</strong> (n.)</td><td>Fé</td><td>Justification is received by <strong>faith</strong> alone.</td></tr><tr><td><strong>Sovereignty</strong> (n.)</td><td>Soberania</td><td>The <strong>sovereignty</strong> of God is a central doctrine.</td></tr><tr><td><strong>Law</strong> (n.)</td><td>Lei</td><td>The <strong>law</strong> reveals our sin and points us to Christ.</td></tr><tr><td><strong>Gospel</strong> (n.)</td><td>Evangelho</td><td>The <strong>gospel</strong> is the good news of salvation.</td></tr><tr><td><strong>Atonement</strong> (n.)</td><td>Expiação</td><td>Christ's death was a substitutionary <strong>atonement</strong>.</td></tr><tr><td><strong>Righteousness</strong> (n.)</td><td>Justiça (retidão)</td><td>Christ's perfect <strong>righteousness</strong> is imputed to believers.</td></tr><tr><td><strong>Imputation</strong> (n.)</td><td>Imputação</td><td>The doctrine of <strong>imputation</strong> is key to justification.</td></tr><tr><td><strong>Sin</strong> (n.)</td><td>Pecado</td><td>All have fallen short because of <strong>sin</strong>.</td></tr><tr><td><strong>Redemption</strong> (n.)</td><td>Redenção</td><td>We have <strong>redemption</strong> through His blood.</td></tr><tr><td><strong>Worship</strong> (n./v.)</td><td>Adoração, Adorar</td><td>Our chief end is to glorify God and enjoy Him in <strong>worship</strong>.</td></tr><tr><td><strong>Scripture</strong> (n.)</td><td>Escritura</td><td><strong>Scripture</strong> is the inspired and inerrant Word of God.</td></tr><tr><td><strong>Doctrine</strong> (n.)</td><td>Doutrina</td><td>Sound <strong>doctrine</strong> is essential for the health of the church.</td></tr><tr><td><strong>To Glorify</strong> (v.)</td><td>Glorificar</td><td>We were created <strong>to glorify</strong> God.</td></tr><tr><td><strong>To Justify</strong> (v.)</td><td>Justificar</td><td>God is the one who does <strong>justify</strong> the ungodly.</td></tr><tr><td><strong>To Sanctify</strong> (v.)</td><td>Santificar</td><td>The Spirit works in us <strong>to sanctify</strong> us.</td></tr><tr><td><strong>Election</strong> (n.)</td><td>Eleição</td><td>The doctrine of <strong>election</strong> speaks of God's sovereign choice.</td></tr><tr><td><strong>Calling</strong> (n.)</td><td>Chamado, Vocação</td><td>The effectual <strong>calling</strong> of the Spirit is irresistible.</td></tr><tr><td><strong>Means of Grace</strong></td><td>Meios de Graça</td><td>The Word, sacraments, and prayer are the ordinary <strong>means of grace</strong>.</td></tr></tbody></table></div>"
+      },
+      "flashcards": [
+        { "front": "Covenant", "back": "Aliança, Pacto (n.)" },
+        { "front": "Grace", "back": "Graça (n.)" },
+        { "front": "Faith", "back": "Fé (n.)" },
+        { "front": "Sovereignty", "back": "Soberania (n.)" },
+        { "front": "Atonement", "back": "Expiação (n.)" },
+        { "front": "Righteousness", "back": "Justiça, Retidão (n.)" },
+        { "front": "Imputation", "back": "Imputação (n.)" },
+        { "front": "Scripture", "back": "Escritura (n.)" },
+        { "front": "Worship", "back": "Adoração (n.); Adorar (v.)" },
+        { "front": "To Justify", "back": "Justificar (v.)" },
+        { "front": "To Sanctify", "back": "Santificar (v.)" },
+        { "front": "Election", "back": "Eleição (n.)" },
+        { "front": "False Friend: Actually", "back": "Significa 'na verdade, de fato'. NÃO significa 'atualmente'." },
+        { "front": "False Friend: Eventually", "back": "Significa 'finalmente, com o tempo'. NÃO significa 'eventualmente'." }
+      ],
+      "exercises": [
+        { "question": "Qual é a melhor tradução para 'Sovereignty of God'?", "options": ["Sobra de Deus", "Soberania de Deus", "Sofrimento de Deus", "Sonho de Deus"], "correct": 1, "difficulty": "easy", "explanation": "'Sovereignty' é um cognato que significa 'Soberania'." },
+        { "question": "A palavra 'atonement' se refere a qual doutrina?", "options": ["A Trindade", "A Expiação de Cristo", "A Criação", "Os Últimos Dias"], "correct": 1, "difficulty": "medium", "explanation": "'Atonement' é o termo teológico padrão em inglês para a obra de expiação de Cristo na cruz." },
+        { "question": "A frase 'He will eventually become a pastor' significa:", "options": ["Ele eventualmente se tornará um pastor.", "Ele talvez se torne um pastor.", "Ele finge ser um pastor.", "Ele finalmente se tornará um pastor."], "correct": 3, "difficulty": "hard", "explanation": "'Eventually' é um falso cognato que significa 'finalmente' ou 'com o tempo'." },
+        { "question": "O que o termo 'imputation' descreve na teologia reformada?", "options": ["A infusão de justiça em nós.", "O ato de Deus creditar a justiça de Cristo a nós.", "Uma disputa teológica.", "A importância das boas obras."], "correct": 1, "difficulty": "hard", "explanation": "'Imputation' (imputação) refere-se ao ato legal de Deus creditar a justiça de Cristo na conta dos crentes." }
+      ]
+    }
+  ]
+}
