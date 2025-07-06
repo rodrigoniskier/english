@@ -1,0 +1,64 @@
+{
+  "courseTitle": "Inglês Instrumental em Teologia Reformada",
+  "courseDescription": "Um curso online para autodidatas, focado no desenvolvimento da habilidade de leitura e compreensão de textos teológicos reformados em inglês.",
+  "modules": [
+    {
+      "moduleId": "M02",
+      "moduleTitle": "Desconstruindo a Frase Teológica: Sujeito, Verbo e Objeto",
+      "learningObjectives": [
+        "Aprender a identificar o verbo principal como o 'motor' de uma frase.",
+        "Aprender a encontrar o sujeito da frase perguntando 'quem ou o que?' realiza a ação.",
+        "Aprender a encontrar o objeto direto, que recebe a ação do verbo.",
+        "Praticar a habilidade de isolar o núcleo (Sujeito-Verbo-Objeto) de uma frase, ignorando cláusulas e frases preposicionais secundárias."
+      ],
+      "content": {
+        "html": "<div><h1>Módulo 2: Desconstruindo a Frase Teológica</h1><p>Textos teológicos em inglês são famosos por suas sentenças longas e cheias de informações. O segredo para não se perder é aprender a encontrar o esqueleto da frase: <strong>Quem fez o quê, e para quem/o quê?</strong> Em outras palavras, encontrar o Sujeito, o Verbo e o Objeto (S-V-O).</p><h2>Passo 1: Encontre o Verbo Principal</h2><p>O verbo é o motor da frase, a palavra que denota ação ou estado. Em uma frase longa, ignore tudo o mais e procure primeiro por ele. Verbos comuns em textos teológicos incluem:</p><ul><li><strong>Verbos de Estado:</strong> is, are, was, were, has, have, seems, appears.</li><li><strong>Verbos de Argumentação:</strong> argues, states, claims, demonstrates, shows, reveals, concludes.</li><li><strong>Verbos de Ação:</strong> created, justified, sanctified, redeemed, called.</li></ul><p><strong>Exemplo:</strong> In his commentary on Romans, the apostle Paul powerfully <strong>argues</strong> for the doctrine of justification by faith alone.</p><h2>Passo 2: Encontre o Sujeito</h2><p>Uma vez que você encontrou o verbo, pergunte: <strong>'Quem ou o que [verbo]?'</strong>. A resposta é o sujeito, que geralmente vem antes do verbo em inglês.</p><p><strong>Exemplo:</strong> In his commentary on Romans, <strong>the apostle Paul</strong> powerfully argues for the doctrine of justification by faith alone.</p><ul><li><strong>Pergunta:</strong> Quem ou o que 'argues' (argumenta)?</li><li><strong>Resposta (Sujeito):</strong> the apostle Paul.</li></ul><h2>Passo 3: Encontre o Objeto Direto</h2><p>Agora, pergunte: <strong>'[Sujeito] [verbo] o quê?'</strong>. A resposta é o objeto direto, que recebe a ação.</p><p><strong>Exemplo:</strong> In his commentary on Romans, the apostle Paul powerfully argues for <strong>the doctrine of justification by faith alone</strong>.</p><ul><li><strong>Pergunta:</strong> 'the apostle Paul' 'argues for' (argumenta a favor de) o quê?</li><li><strong>Resposta (Objeto):</strong> the doctrine of justification by faith alone.</li></ul><h3>Análise Completa</h3><div style='background: #e3f2fd; padding: 1.5rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #0056b3;'><p><strong>Frase Original:</strong> In his commentary on Romans, the apostle Paul powerfully argues for the doctrine of justification by faith alone.</p><p><strong>Frases de 'ruído' (informação secundária):</strong> 'In his commentary on Romans', 'powerfully'.</p><p><strong>Núcleo S-V-O:</strong> The apostle Paul (S) argues for (V) the doctrine of justification by faith alone (O).</p><p><strong>Tradução do Núcleo:</strong> O apóstolo Paulo argumenta a favor da doutrina da justificação somente pela fé.</p><p>Ao praticar essa 'dissecação', você pode entender a afirmação principal de qualquer sentença, não importa quão longa ela seja.</p></div></div>"
+      },
+      "flashcards": [
+        { "front": "O primeiro passo para analisar uma frase é:", "back": "Encontrar o Verbo Principal." },
+        { "front": "A pergunta para encontrar o Sujeito é:", "back": "Quem ou o que [verbo]?" },
+        { "front": "A pergunta para encontrar o Objeto Direto é:", "back": "[Sujeito] [verbo] quem ou o quê?" },
+        { "front": "argues", "back": "argumenta, defende (v.)" },
+        { "front": "states", "back": "afirma, declara (v.)" },
+        { "front": "reveals", "back": "revela (v.)" },
+        { "front": "shows", "back": "mostra, demonstra (v.)" },
+        { "front": "to claim", "back": "alegar, reivindicar (v.)" }
+      ],
+      "exercises": [
+        {
+          "question": "Em uma frase longa e complexa, qual deve ser a primeira palavra que você procura para entender seu núcleo?",
+          "options": ["O Sujeito", "O Objeto", "O Verbo Principal", "O Adjetivo"],
+          "correct": 2,
+          "difficulty": "easy",
+          "explanation": "O verbo é o 'motor' da frase. Encontrá-lo primeiro nos permite então perguntar 'quem?' (sujeito) e 'o quê?' (objeto)."
+        },
+        {
+          "question": "Na frase: 'The Westminster Confession of Faith clearly defines the doctrine of Scripture.' Qual é o Sujeito?",
+          "options": ["Scripture", "The Westminster Confession of Faith", "defines", "doctrine"],
+          "correct": 1,
+          "difficulty": "medium",
+          "explanation": "Pergunte: 'Quem ou o que defines (define)?'. A resposta é 'The Westminster Confession of Faith'."
+        },
+        {
+          "question": "Na mesma frase: 'The Westminster Confession of Faith clearly defines the doctrine of Scripture.' Qual é o Objeto Direto?",
+          "options": ["clearly", "The Westminster Confession of Faith", "defines", "the doctrine of Scripture"],
+          "correct": 3,
+          "difficulty": "medium",
+          "explanation": "Pergunte: 'The Westminster Confession of Faith defines o quê?'. A resposta é 'the doctrine of Scripture'."
+        },
+        {
+          "question": "Analise a frase: 'In his book, J.I. Packer powerfully explains the work of the Holy Spirit.' Qual é o núcleo Sujeito-Verbo-Objeto?",
+          "options": [
+            "S: J.I. Packer, V: book, O: Holy Spirit",
+            "S: his book, V: explains, O: the work",
+            "S: J.I. Packer, V: explains, O: the work of the Holy Spirit",
+            "S: The Holy Spirit, V: explains, O: J.I. Packer"
+          ],
+          "correct": 2,
+          "difficulty": "hard",
+          "explanation": "O verbo é 'explains'. Quem explica? 'J.I. Packer' (Sujeito). Ele explica o quê? 'the work of the Holy Spirit' (Objeto). A frase 'In his book' é informação secundária de localização."
+        }
+      ]
+    }
+  ]
+}
