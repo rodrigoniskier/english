@@ -1,0 +1,51 @@
+{
+  "courseTitle": "Inglês Instrumental em Teologia Reformada",
+  "courseDescription": "Um curso online para autodidatas, focado no desenvolvimento da habilidade de leitura e compreensão de textos teológicos reformados em inglês.",
+  "modules": [
+    {
+      "moduleId": "M12",
+      "moduleTitle": "Análise Exegética e Teológica Completa",
+      "learningObjectives": [
+        "Aprender e aplicar um método de 5 passos para analisar um parágrafo teológico complexo.",
+        "Sintetizar todas as habilidades aprendidas no curso (S-V-O, conectores, cláusulas, voz passiva, etc.).",
+        "Analisar um trecho da obra de um teólogo contemporâneo (John Piper).",
+        "Praticar a habilidade de reescrever o argumento de um autor com as próprias palavras."
+      ],
+      "content": {
+        "html": "<div><h1>Módulo 12: Análise Exegética e Teológica Completa</h1><p>Bem-vindo ao nosso módulo final! Aqui, vamos juntar tudo o que você aprendeu. O objetivo não é mais aprender uma regra de cada vez, mas aplicar todas as ferramentas juntas para analisar um texto teológico do início ao fim. Apresentaremos um método de 5 passos que você pode usar para qualquer texto que encontrar em seus estudos.</p><p>Nosso texto de hoje é de John Piper, de sua obra <em>'The Pleasures of God'</em> (Os Prazeres de Deus), onde ele argumenta por que a busca de Deus por Sua própria glória é um ato de amor.</p><hr><h2>1. O Texto Original</h2><blockquote style='font-style: italic; border-left: 4px solid #ccc; padding-left: 15px; margin-left: 20px;'>“If God is to love us in the best and highest way, he must offer us what is best and highest for our enjoyment. And what is best and highest is himself. Therefore, his love for us must be a commitment to his own self-glorification. He must be committed to preserving and displaying his own supreme worth and beauty for us to enjoy. This is what it means for God to love us.”</blockquote><hr><h2>2. O Método de Análise em 5 Passos</h2><h3>Passo 1: Primeira Leitura - Entenda a Ideia Geral</h3><p>Leia o parágrafo uma vez, sem se preocupar com os detalhes. Qual é o tópico? Piper está conectando o amor de Deus por nós com a Sua própria auto-glorificação, argumentando que as duas coisas não estão em conflito, mas são a mesma coisa.</p><h3>Passo 2: Desconstrua as Frases - Encontre o Núcleo (S-V-O)</h3><ul><li><strong>Frase 1:</strong> 'he must offer us what is best and highest for our enjoyment'.<br><em>Núcleo:</em> He (S) must offer (V) us (Obj. Indireto) what is best and highest (Obj. Direto).</li><li><strong>Frase 2:</strong> 'what is best and highest is himself'.<br><em>Núcleo:</em> What is best and highest (S) is (V) himself (Predicado).</li><li><strong>Frase 3:</strong> 'his love for us must be a commitment to his own self-glorification'.<br><em>Núcleo:</em> His love (S) must be (V) a commitment (Predicado).</li></ul><h3>Passo 3: Analise a Lógica - Siga os 'Sinais de Trânsito'</h3><p>Como as frases se conectam?</p><ul><li>A primeira frase começa com uma <strong>oração condicional ('If...')</strong>, estabelecendo a premissa de todo o argumento.</li><li>A segunda frase responde à pergunta implícita da primeira ('o que é melhor e mais elevado?').</li><li>A terceira frase começa com <strong>'Therefore' (Portanto)</strong>. Este é o conector lógico chave! Ele sinaliza que esta frase é a <strong>conclusão</strong> lógica das duas primeiras.</li></ul><h3>Passo 4: Defina os Termos-Chave - Construa o Vocabulário</h3><ul><li><strong>To love in the best and highest way:</strong> amar da melhor e mais elevada maneira.</li><li><strong>For our enjoyment:</strong> para o nosso deleite, para a nossa alegria.</li><li><strong>Commitment:</strong> compromisso, dedicação.</li><li><strong>Self-glorification:</strong> auto-glorificação.</li><li><strong>Supreme worth and beauty:</strong> valor e beleza supremos.</li><li><strong>To enjoy:</strong> desfrutar, ter prazer em.</li></ul><h3>Passo 5: Sintetize o Argumento - Rephrase com Suas Palavras</h3><p>Agora, junte tudo. Qual é o argumento de Piper aqui?</p><p><em>'Se o amor de Deus por nós significa nos dar o melhor presente possível (Passo 2, Frase 1), e se o melhor presente possível é Ele mesmo (Passo 2, Frase 2), então, a conclusão lógica (Passo 3) é que o amor de Deus deve ser o seu compromisso de nos dar a Si mesmo para o nosso deleite. E o ato de Deus se apresentar para o nosso deleite é a Sua auto-glorificação. Portanto, a busca de Deus por Sua glória é o Seu amor por nós.'</em></p><hr><h2>Conclusão do Curso</h2><p>Parabéns por completar esta jornada! Você passou do alfabeto para a gramática, e da gramática para a análise de textos reais. Você agora possui uma 'caixa de ferramentas' que lhe permite abordar a rica tradição teológica reformada em inglês com muito mais confiança. Lembre-se que este é o começo. A chave agora é continuar praticando: leia artigos, capítulos de livros e sermões. Que este curso seja uma bênção para aprofundar seu conhecimento e seu amor por Deus.</p></div>"
+      },
+      "flashcards": [
+        { "front": "O Método de Análise em 5 Passos", "back": "1. Ideia Geral; 2. Desconstruir Frases; 3. Analisar Lógica; 4. Definir Termos; 5. Sintetizar." },
+        { "front": "To enjoy", "back": "Desfrutar, ter prazer em, deleitar-se em." },
+        { "front": "Commitment", "back": "Compromisso, dedicação." },
+        { "front": "Supreme worth", "back": "Valor supremo." },
+        { "front": "Self-glorification", "back": "Auto-glorificação." },
+        { "front": "The Gist", "back": "A ideia geral ou o ponto principal de um texto." },
+        { "front": "To rephrase", "back": "Reescrever ou dizer algo com outras palavras." }
+      ],
+      "exercises": [
+        {
+          "question": "Qual é o primeiro passo recomendado para analisar um parágrafo complexo?",
+          "options": ["Procurar todas as palavras desconhecidas.", "Fazer uma leitura rápida para pegar a ideia geral (o 'gist').", "Analisar a primeira frase gramaticalmente.", "Contar o número de conectores lógicos."],
+          "correct": 1,
+          "difficulty": "easy",
+          "explanation": "Antes de mergulhar nos detalhes, ter uma visão geral do tópico ajuda a contextualizar a análise gramatical."
+        },
+        {
+          "question": "No argumento de Piper, qual é a função da palavra 'Therefore'?",
+          "options": ["Introduzir uma ideia contrastante.", "Apresentar um exemplo.", "Sinalizar a principal conclusão lógica do argumento.", "Fazer uma pergunta retórica."],
+          "correct": 2,
+          "difficulty": "medium",
+          "explanation": "'Therefore' (Portanto) é um conector conclusivo. Ele indica que a frase seguinte é a conclusão baseada nas premissas estabelecidas anteriormente."
+        },
+        {
+          "question": "De acordo com a síntese do argumento de Piper, por que a auto-glorificação de Deus é um ato de amor para conosco?",
+          "options": ["Porque Ele não precisa de nós.", "Porque, ao se glorificar, Ele se oferece a nós como nosso maior bem e prazer.", "Porque isso nos torna menos importantes.", "Porque é um mistério que não podemos entender."],
+          "correct": 1,
+          "difficulty": "hard",
+          "explanation": "O argumento conecta o amor (dar o que é melhor) com o fato de que Deus mesmo é o melhor. Portanto, Deus se dar/glorificar para nosso deleite é a maior expressão de seu amor."
+        }
+      ]
+    }
+  ]
+}
