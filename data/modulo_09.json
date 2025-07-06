@@ -1,0 +1,53 @@
+{
+  "courseTitle": "Inglês Instrumental em Teologia Reformada",
+  "courseDescription": "Um curso online para autodidatas, focado no desenvolvimento da habilidade de leitura e compreensão de textos teológicos reformados em inglês.",
+  "modules": [
+    {
+      "moduleId": "M09",
+      "moduleTitle": "Lendo as Confissões e Catecismos",
+      "learningObjectives": [
+        "Compreender o propósito e o estilo da linguagem confessional.",
+        "Analisar a estrutura lógica de um parágrafo da Confissão de Fé de Westminster.",
+        "Identificar como conectores lógicos (Although, yet, Therefore) constroem um argumento teológico.",
+        "Aprender vocabulário-chave relacionado à doutrina da Escritura (Revelação, Providência, Salvação)."
+      ],
+      "content": {
+        "html": "<div><h1>Módulo 9: Lendo as Confissões e Catecismos</h1><p>Neste módulo, abordaremos um tipo de escrita teológica muito importante: a linguagem confessional. Documentos como a Confissão de Fé de Westminster e o Catecismo de Heidelberg usam uma linguagem extremamente cuidadosa, precisa e lógica para articular a doutrina. Aprender a ler este estilo é fundamental.</p><p>Analisaremos o parágrafo de abertura da <strong>Confissão de Fé de Westminster (Capítulo 1, Seção 1)</strong>, sobre as Sagradas Escrituras.</p><hr><h2>1. O Texto Original</h2><blockquote style='font-style: italic; border-left: 4px solid #ccc; padding-left: 15px; margin-left: 20px;'>“Although the light of nature, and the works of creation and providence do so far manifest the goodness, wisdom, and power of God, as to leave men unexcusable; yet they are not sufficient to give that knowledge of God, and of His will, which is necessary unto salvation. Therefore it pleased the Lord, at sundry times, and in divers manners, to reveal Himself, and to declare that His will unto His Church; and afterwards, for the better preserving and propagating of the truth, and for the establishment and comfort of the Church against the corruption of the flesh, and the malice of Satan and of the world, to commit the same wholly unto writing: which maketh the Holy Scripture to be most necessary; those former ways of God's revealing His will unto His people being now ceased.”</blockquote><hr><h2>2. Análise Guiada</h2><p>Esta é uma única e longa sentença! Vamos quebrá-la em suas partes lógicas, que são sinalizadas pelos conectores.</p><h3>Parte 1: A Concessão ('Although...')</h3><p><em>“Although the light of nature, and the works of creation and providence do so far manifest the goodness, wisdom, and power of God, as to leave men unexcusable...”</em></p><ul><li><strong>Análise Gramatical:</strong> A palavra <strong>'Although'</strong> (Embora) inicia uma cláusula de concessão. O autor está admitindo um ponto antes de apresentar seu ponto principal em contraste.</li><li><strong>Vocabulário-Chave:</strong><ul><li><strong>light of nature:</strong> luz da natureza (revelação geral).</li><li><strong>providence:</strong> providência.</li><li><strong>to manifest:</strong> manifestar, tornar claro.</li><li><strong>to leave men unexcusable:</strong> tornar os homens indesculpáveis.</li></ul></li><li><strong>Tradução Comentada:</strong> 'Embora a luz da natureza, e as obras da criação e da providência manifestem a bondade, a sabedoria e o poder de Deus, a ponto de tornar os homens indesculpáveis...'</li></ul><h3>Parte 2: O Ponto Principal ('yet...')</h3><p><em>“...yet they are not sufficient to give that knowledge of God, and of His will, which is necessary unto salvation.”</em></p><ul><li><strong>Análise Gramatical:</strong> A palavra <strong>'yet'</strong> (contudo, mesmo assim) introduz a oração principal, que contrasta com a concessão anterior. Este é o argumento central da primeira metade da sentença.</li><li><strong>Vocabulário-Chave:</strong><ul><li><strong>sufficient:</strong> suficiente.</li><li><strong>knowledge:</strong> conhecimento.</li><li><strong>unto salvation:</strong> para a salvação ('unto' é uma forma arcaica de 'to' ou 'for').</li></ul></li><li><strong>Tradução Comentada:</strong> '...contudo, elas não são suficientes para dar aquele conhecimento de Deus, e da Sua vontade, que é necessário para a salvação.'</li></ul><h3>Parte 3: A Consequência Lógica ('Therefore...')</h3><p><em>“Therefore it pleased the Lord, at sundry times, and in divers manners, to reveal Himself, and to declare that His will unto His Church... to commit the same wholly unto writing...”</em></p><ul><li><strong>Análise Gramatical:</strong> <strong>'Therefore'</strong> (Portanto) sinaliza a conclusão lógica baseada na insuficiência da revelação geral. Note o uso de múltiplos infinitivos para listar o que aprouve ao Senhor fazer: 'to reveal...', 'to declare...', 'to commit...'.</li><li><strong>Vocabulário-Chave:</strong><ul><li><strong>it pleased the Lord:</strong> aprouve ao Senhor, agradou ao Senhor.</li><li><strong>sundry times:</strong> diversas ou várias vezes.</li><li><strong>divers manners:</strong> diversas maneiras.</li><li><strong>to commit unto writing:</strong> confiar/entregar à escrita.</li></ul></li><li><strong>Tradução Comentada:</strong> 'Portanto, aprouve ao Senhor, em várias épocas e de diversas maneiras, revelar-se a Si mesmo e declarar aquela Sua vontade à Sua Igreja... e depois... confiar a mesma integralmente à escrita...'</li></ul><h3>Parte 4: A Conclusão Final ('which maketh...')</h3><p><em>“...which maketh the Holy Scripture to be most necessary; those former ways of God's revealing His will unto His people being now ceased.”</em></p><ul><li><strong>Análise Gramatical:</strong> A oração relativa com <strong>'which'</strong> conclui todo o argumento, explicando por que a escrita foi necessária. A cláusula final ('those former ways... ceased') explica por que a Escritura é AGORA 'muito necessária'.</li><li><strong>Vocabulário-Chave:</strong><ul><li><strong>maketh:</strong> forma arcaica de 'makes' (torna).</li><li><strong>most necessary:</strong> muito necessária, indispensável.</li><li><strong>former ways:</strong> maneiras anteriores.</li><li><strong>ceased:</strong> cessaram, pararam.</li></ul></li><li><strong>Tradução Comentada:</strong> '...o que torna a Sagrada Escritura muito necessária; tendo agora cessado aquelas maneiras anteriores de Deus revelar a Sua vontade ao Seu povo.'</li></ul></div>"
+      },
+      "flashcards": [
+        { "front": "Confessional Language", "back": "Linguagem precisa, cuidadosa e lógica usada em confissões de fé e catecismos." },
+        { "front": "Although..., yet...", "back": "Estrutura de contraste: 'Embora..., contudo...'." },
+        { "front": "Therefore", "back": "Conector lógico que introduz uma conclusão: 'Portanto'." },
+        { "front": "Sufficient", "back": "Suficiente." },
+        { "front": "Providence", "back": "Providência." },
+        { "front": "Unexcusable", "back": "Indesculpável." },
+        { "front": "Unto", "back": "Forma arcaica de 'to' ou 'for' (para)." },
+        { "front": "To commit unto writing", "back": "Confiar à escrita, registrar por escrito." },
+        { "front": "Ceased", "back": "Cessou, parou." }
+      ],
+      "exercises": [
+        {
+          "question": "De acordo com o texto da Confissão de Westminster, a revelação na natureza (light of nature) é suficiente para a salvação?",
+          "options": ["Sim, ela é totalmente suficiente.", "Não, ela é explicitamente declarada como 'não suficiente'.", "O texto não aborda o assunto.", "Sim, mas apenas para algumas pessoas."],
+          "correct": 1,
+          "difficulty": "easy",
+          "explanation": "O texto usa a estrutura 'Although..., yet...' para afirmar que, embora a revelação geral nos torne indesculpáveis, 'contudo, elas não são suficientes' (yet they are not sufficient) para a salvação."
+        },
+        {
+          "question": "Qual é a função da palavra 'Therefore' no início da terceira parte do texto?",
+          "options": ["Introduzir um contraste.", "Adicionar um exemplo.", "Sinalizar a consequência lógica do argumento anterior.", "Fazer uma pergunta."],
+          "correct": 2,
+          "difficulty": "medium",
+          "explanation": "'Therefore' (Portanto) indica que, como a revelação geral era insuficiente, a consequência lógica foi que Deus agiu para se revelar de forma especial."
+        },
+        {
+          "question": "O que o texto diz que 'torna a Sagrada Escritura muito necessária' (maketh the Holy Scripture to be most necessary)?",
+          "options": ["O fato de a natureza ser bela.", "O fato de a providência ser complexa.", "O fato de que Deus entregou Sua vontade à escrita.", "O fato de as pessoas serem pecadoras."],
+          "correct": 2,
+          "difficulty": "hard",
+          "explanation": "A cláusula 'which maketh...' refere-se à ação anterior: o ato de Deus 'confiar à escrita' (to commit the same wholly unto writing) Sua revelação. É o fato de termos a revelação escrita que a torna necessária."
+        }
+      ]
+    }
+  ]
+}
