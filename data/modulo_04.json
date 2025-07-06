@@ -1,0 +1,66 @@
+{
+  "courseTitle": "Inglês Instrumental em Teologia Reformada",
+  "courseDescription": "Um curso online para autodidatas, focado no desenvolvimento da habilidade de leitura e compreensão de textos teológicos reformados em inglês.",
+  "modules": [
+    {
+      "moduleId": "M04",
+      "moduleTitle": "A Voz Passiva e as Frases Preposicionais",
+      "learningObjectives": [
+        "Definir e identificar a voz passiva em textos em inglês.",
+        "Compreender por que a voz passiva é frequentemente usada na escrita acadêmica para criar um tom objetivo.",
+        "Aprender a fórmula de reconhecimento da voz passiva: verbo 'to be' + Particípio Passado.",
+        "Identificar frases preposicionais e entender sua função de adicionar informações secundárias.",
+        "Aprender um vocabulário de frases preposicionais comuns na escrita teológica."
+      ],
+      "content": {
+        "html": "<div><h1>Módulo 4: A Voz Passiva e as Frases Preposicionais</h1><p>Neste módulo, vamos aprender a lidar com duas características muito comuns da escrita teológica e acadêmica em inglês: o uso da voz passiva e a abundância de frases preposicionais. Dominá-las é a chave para simplificar sentenças complexas.</p><h2>1. A Voz Passiva: Foco na Ação, Não no Ator</h2><p>A voz passiva é usada para dar ênfase à ação ou àquele que recebe a ação, em vez de quem a pratica. Ela cria um tom mais formal e objetivo.</p><p><strong>Fórmula de Reconhecimento:</strong> A voz passiva é sempre formada por uma variação do verbo <strong>'to be' (ser/estar)</strong> + o <strong>Particípio Passado</strong> do verbo principal (geralmente terminado em -ed ou -en).</p><h4>Comparação: Ativa vs. Passiva</h4><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: var(--color-primary); color: white;'><th style='padding: 1rem; border: 1px solid #ddd;'>Tipo</th><th style='padding: 1rem; border: 1px solid #ddd;'>Exemplo</th><th style='padding: 1rem; border: 1px solid #ddd;'>Foco</th></tr></thead><tbody><tr><td><strong>Voz Ativa</strong></td><td>John Calvin <strong>wrote</strong> the Institutes.</td><td>Em João Calvino (o ator).</td></tr><tr><td><strong>Voz Passiva</strong></td><td>The Institutes <strong>were written</strong> by John Calvin.</td><td>Nos Institutos (o receptor da ação).</td></tr><tr><td><strong>Voz Passiva (sem agente)</strong></td><td>This doctrine <strong>is explained</strong> in chapter 3.</td><td>Na própria ação (ser explicado).</td></tr></tbody></table><p>Frases como 'It is argued that...' (Argumenta-se que...), 'It is believed that...' (Crê-se que...) e 'We are justified by faith' (Somos justificados pela fé) são exemplos clássicos do uso da voz passiva na teologia.</p><hr><h2>2. Frases Preposicionais: Desvendando a Complexidade</h2><p>Frases preposicionais são grupos de palavras que começam com uma preposição (<em>in, on, by, with, for, from,</em> etc.) e adicionam informações de tempo, lugar, modo, causa, etc. Textos acadêmicos usam muitas delas, o que pode tornar a frase longa e confusa.</p><p><strong>A Estratégia:</strong> Ao ler, aprenda a identificar e a 'isolar' mentalmente essas frases para encontrar o núcleo S-V-O da sentença.</p><h4>Exemplo de Desconstrução:</h4><p><strong>Frase Longa:</strong> <em><strong>In light of</strong> Scripture, <strong>for the sake of</strong> the church, God saves His people <strong>by means of</strong> His grace <strong>through</strong> the atoning work <strong>of</strong> Christ.</em></p><p><strong>Frases Preposicionais (informação secundária):</strong></p><ul><li>In light of Scripture...</li><li>for the sake of the church...</li><li>by means of His grace...</li><li>through the atoning work...</li><li>of Christ...</li></ul><p><strong>Núcleo da Frase:</strong> God saves His people. (Deus salva o Seu povo.)</p><h4>Caixa de Ferramentas: Frases Preposicionais Comuns</h4><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: #28a745; color: white;'><th style='padding: 1rem; border: 1px solid #ddd;'>Frase em Inglês</th><th style='padding: 1rem; border: 1px solid #ddd;'>Tradução</th></tr></thead><tbody><tr><td><strong>in accordance with</strong></td><td>de acordo com</td></tr><tr><td><strong>for the sake of</strong></td><td>por causa de, em prol de</td></tr><tr><td><strong>by means of</strong></td><td>por meio de</td></tr><tr><td><strong>in light of</strong></td><td>à luz de</td></tr><tr><td><strong>with regard to</strong></td><td>com relação a, no que diz respeito a</td></tr><tr><td><strong>on the basis of</strong></td><td>na base de, com base em</td></tr><tr><td><strong>in contrast to</strong></td><td>em contraste com</td></tr></tbody></table></div>"
+      },
+      "flashcards": [
+        { "front": "Voz Passiva", "back": "Foco na ação ou no receptor. Formato: verbo 'to be' + Particípio Passado." },
+        { "front": "Fórmula da Voz Passiva", "back": "is written, are taught, was formulated, have been debated." },
+        { "front": "Uso da Voz Passiva", "back": "Criar um tom formal e objetivo, enfatizando a ação em si." },
+        { "front": "Frase Preposicional", "back": "Um grupo de palavras iniciado por uma preposição (in, for, by, with...) que adiciona detalhes." },
+        { "front": "Estratégia de Leitura", "back": "Isole as frases preposicionais para encontrar o núcleo Sujeito-Verbo-Objeto da sentença." },
+        { "front": "in accordance with", "back": "de acordo com" },
+        { "front": "for the sake of", "back": "por causa de, em prol de" },
+        { "front": "by means of", "back": "por meio de" },
+        { "front": "in light of", "back": "à luz de" }
+      ],
+      "exercises": [
+        {
+          "question": "Qual é a fórmula para identificar a voz passiva em inglês?",
+          "options": ["verbo 'to have' + verbo -ing", "verbo modal + verbo principal", "verbo 'to be' + Particípio Passado", "sujeito + objeto + verbo"],
+          "correct": 2,
+          "difficulty": "easy",
+          "explanation": "A estrutura consistente da voz passiva é uma forma do verbo 'to be' (is, was, were, has been, etc.) seguida pelo particípio passado do verbo principal (geralmente terminado em -ed ou -en)."
+        },
+        {
+          "question": "A frase 'This doctrine was formulated by the Westminster divines.' está na voz passiva para enfatizar:",
+          "options": ["A urgência da doutrina.", "Os teólogos de Westminster.", "A própria doutrina e o fato de que ela foi formulada.", "A dificuldade da doutrina."],
+          "correct": 2,
+          "difficulty": "medium",
+          "explanation": "Ao colocar 'This doctrine' como sujeito da frase, o foco se desloca para a doutrina em si, em vez de focar nos teólogos como os atores principais."
+        },
+        {
+          "question": "Qual é a melhor tradução para a frase preposicional 'on the basis of'?",
+          "options": ["Na base de, com base em", "Apesar de", "Em adição a", "No topo de"],
+          "correct": 0,
+          "difficulty": "easy",
+          "explanation": "'On the basis of' é uma expressão comum em textos acadêmicos que significa 'com base em' ou 'fundamentado em'."
+        },
+        {
+          "question": "Na frase 'For the glory of God alone, the Reformers preached the gospel with great passion.' Qual é o núcleo Sujeito-Verbo-Objeto?",
+          "options": [
+            "S: glory, V: preached, O: gospel",
+            "S: The Reformers, V: preached, O: the gospel",
+            "S: God, V: preached, O: the Reformers",
+            "S: The Reformers, V: glory, O: passion"
+          ],
+          "correct": 1,
+          "difficulty": "hard",
+          "explanation": "As frases 'For the glory of God alone' e 'with great passion' são frases preposicionais que adicionam detalhes. O núcleo da ação é: The Reformers (Sujeito) preached (Verbo) the gospel (Objeto)."
+        }
+      ]
+    }
+  ]
+}
