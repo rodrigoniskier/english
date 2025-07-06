@@ -1,0 +1,58 @@
+{
+  "courseTitle": "Inglês Instrumental em Teologia Reformada",
+  "courseDescription": "Um curso online para autodidatas, focado no desenvolvimento da habilidade de leitura e compreensão de textos teológicos reformados em inglês.",
+  "modules": [
+    {
+      "moduleId": "M07",
+      "moduleTitle": "Orações Condicionais (If-Clauses)",
+      "learningObjectives": [
+        "Definir uma oração condicional e suas duas partes: a condição (if-clause) e a consequência (main clause).",
+        "Aprender a identificar os três tipos principais de condicionais com base em sua estrutura verbal.",
+        "Compreender como cada tipo de condicional expressa um diferente grau de realidade (real, hipotética, contrafactual).",
+        "Analisar argumentos teológicos que utilizam raciocínio condicional."
+      ],
+      "content": {
+        "html": "<div><h1>Módulo 7: Orações Condicionais (If-Clauses)</h1><p>A argumentação teológica frequentemente depende de raciocínio hipotético. As orações condicionais, ou 'if-clauses', são a estrutura gramatical para isso. Elas exploram a relação lógica entre uma <strong>condição</strong> (a parte com 'if') e uma <strong>consequência</strong> (a oração principal).</p><p>Ex: <strong>If</strong> God is sovereign (condição), <strong>then</strong> He is in control (consequência).</p><h2>Os 3 Tipos de Condicionais (Foco na Leitura)</h2><p>Para a leitura instrumental, não precisamos decorar todas as regras de formação, mas sim aprender a <strong>reconhecer a intenção do autor</strong> com base na estrutura do verbo.</p><h3>1. Condição Real / Provável</h3><p>Descreve uma situação real, uma verdade geral, ou algo que provavelmente acontecerá se a condição for satisfeita. É a condição da 'realidade'.</p><ul><li><strong>Estrutura:</strong> If + Simple Present, ... Simple Present / Future (will + verb).</li><li><strong>Intenção do Autor:</strong> Apresentar uma relação de causa e efeito direta e provável.</li><li><strong>Exemplo (Romanos 10:9):</strong> <em><strong>If</strong> you <strong>confess</strong> with your mouth that Jesus is Lord ... you <strong>will be</strong> saved.</em> (A consequência é apresentada como um resultado certo da condição).</li></ul><h3>2. Condição Hipotética / Improvável (Presente/Futuro)</h3><p>Descreve uma situação hipotética, contrária à realidade presente ou improvável. É a condição do 'e se...?'.</p><ul><li><strong>Estrutura:</strong> If + Simple Past, ... would + verb.</li><li><strong>Intenção do Autor:</strong> Explorar uma hipótese ou um cenário imaginário.</li><li><strong>Exemplo:</strong> <em><strong>If</strong> man <strong>were</strong> not a sinner, he <strong>would not need</strong> a Savior.</em> (A estrutura 'if...were' e 'would' nos diz que a premissa é falsa: o homem *é* pecador e, portanto, *precisa* de um Salvador).</li></ul><h3>3. Condição Contrafactual (Passado)</h3><p>Descreve uma situação hipotética no <strong>passado</strong> que não aconteceu, e qual teria sido seu resultado. É a condição do 'se eu tivesse feito...'.</p><ul><li><strong>Estrutura:</strong> If + Past Perfect (had + particípio), ... would have + particípio.</li><li><strong>Intenção do Autor:</strong> Argumentar sobre um evento passado que não pode ser mudado.</li><li><strong>Exemplo:</strong> <em><strong>If</strong> Adam <strong>had not fallen</strong>, death <strong>would not have entered</strong> the world.</em> (Isso afirma, por implicação, que Adão *de fato caiu* e a morte *de fato entrou* no mundo).</li></ul><div style='background: #e3f2fd; padding: 1.5rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #0056b3;'><p><strong>Dica de Leitura:</strong> Ao encontrar uma 'if-clause', olhe imediatamente para a estrutura dos verbos. Ela lhe dirá se o autor está falando sobre uma realidade, uma hipótese presente ou uma hipótese passada que não ocorreu. Isso é fundamental para não confundir uma ilustração hipotética com uma afirmação doutrinária.</p></div></div>"
+      },
+      "flashcards": [
+        { "front": "Oração Condicional", "back": "Uma estrutura 'Se... então...' que conecta uma CONDIÇÃO a uma CONSEQUÊNCIA." },
+        { "front": "If + Present, ... Future (will)", "back": "Estrutura da CONDIÇÃO REAL/PROVÁVEL. Descreve uma causa e efeito provável." },
+        { "front": "If + Past, ... would + verb", "back": "Estrutura da CONDIÇÃO HIPOTÉTICA. Descreve um 'e se...?' contrário à realidade presente." },
+        { "front": "If + had + participle, ... would have + participle", "back": "Estrutura da CONDIÇÃO CONTRAFACTUAL. Descreve um 'se tivesse...' no passado que não aconteceu." },
+        { "front": "Unless", "back": "Significa 'a menos que' ou 'se não'." },
+        { "front": "Protasis", "back": "O termo técnico para a cláusula 'if' (a condição)." },
+        { "front": "Apodosis", "back": "O termo técnico para a cláusula principal (a consequência)." }
+      ],
+      "exercises": [
+        {
+          "question": "Na frase 'If a doctrine is biblical, we must embrace it', que tipo de condição é apresentada?",
+          "options": ["Hipotética", "Contrafactual", "Real / Provável", "Impossível"],
+          "correct": 2,
+          "difficulty": "easy",
+          "explanation": "A estrutura 'If + Presente (is), ... Presente (must embrace)' descreve uma condição real ou uma verdade geral."
+        },
+        {
+          "question": "A frase 'If salvation were by works, then Christ would have died in vain' implica que:",
+          "options": ["A salvação é pelas obras.", "A salvação não é pelas obras, e Cristo não morreu em vão.", "Cristo morreu em vão.", "A salvação pode ser pelas obras."],
+          "correct": 1,
+          "difficulty": "hard",
+          "explanation": "A estrutura 'If...were..., ...would have...' é hipotética/contrafactual. Ela explora uma premissa falsa (salvação por obras) para reforçar a verdade (salvação não é por obras, portanto a morte de Cristo teve um propósito)."
+        },
+        {
+          "question": "Qual estrutura é usada para falar sobre uma situação hipotética no PASSADO que não aconteceu?",
+          "options": ["If + Present, will...", "If + Past, would...", "If + had + participle, would have + participle"],
+          "correct": 2,
+          "difficulty": "medium",
+          "explanation": "A condição contrafactual no passado usa a estrutura Past Perfect (had + particípio) na cláusula 'if'."
+        },
+        {
+          "question": "Identifique a consequência na frase: 'Unless one is born again, he cannot see the kingdom of God.'",
+          "options": ["Unless one is born again", "he cannot see", "he cannot see the kingdom of God", "the kingdom of God"],
+          "correct": 2,
+          "difficulty": "medium",
+          "explanation": "'Unless' funciona como 'If... not'. A condição é 'se alguém não nascer de novo'. A consequência (o que acontece se a condição for verdadeira) é 'ele não pode ver o reino de Deus'."
+        }
+      ]
+    }
+  ]
+}
