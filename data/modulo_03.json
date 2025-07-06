@@ -1,0 +1,59 @@
+{
+  "courseTitle": "Inglês Instrumental em Teologia Reformada",
+  "courseDescription": "Um curso online para autodidatas, focado no desenvolvimento da habilidade de leitura e compreensão de textos teológicos reformados em inglês.",
+  "modules": [
+    {
+      "moduleId": "M03",
+      "moduleTitle": "Tempos Verbais e Modais em Textos Acadêmicos",
+      "learningObjectives": [
+        "Reconhecer os tempos verbais mais comuns em textos teológicos: Simple Present, Simple Past e Present Perfect.",
+        "Entender a função de cada um desses tempos na construção de um argumento.",
+        "Definir o que são verbos modais e sua função de modificar a ideia principal do verbo.",
+        "Aprender a identificar o grau de certeza ou obrigação de uma afirmação com base no verbo modal utilizado (ex: 'must' vs. 'might')."
+      ],
+      "content": {
+        "html": "<div><h1>Módulo 3: Tempos Verbais e Verbos Modais</h1><p>Após aprender a identificar o esqueleto de uma frase (S-V-O), vamos agora analisar o 'coração' desse esqueleto: o verbo. O tempo verbal e o uso de verbos modais nos dizem muito sobre como o autor enquadra sua argumentação.</p><h2>1. Os Tempos Verbais Essenciais na Escrita Acadêmica</h2><p>Embora o inglês tenha muitos tempos verbais, três deles são os mais importantes para a leitura teológica:</p><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: var(--color-primary); color: white;'><th style='padding: 1rem; border: 1px solid #ddd;'>Tempo Verbal</th><th style='padding: 1rem; border: 1px solid #ddd;'>Uso Principal</th><th style='padding: 1rem; border: 1px solid #ddd;'>Exemplo</th></tr></thead><tbody><tr><td><strong>Simple Present</strong></td><td>Para declarar verdades gerais, doutrinas atemporais ou apresentar o argumento do autor.</td><td>The Bible <strong>teaches</strong> the sovereignty of God.</td></tr><tr><td><strong>Simple Past</strong></td><td>Para descrever eventos históricos ou as ações de teólogos do passado.</td><td>John Calvin <strong>wrote</strong> his Institutes in the 16th century.</td></tr><tr><td><strong>Present Perfect</strong><br>(have/has + verbo no particípio)</td><td>Para descrever uma ação passada que tem relevância ou continua até o presente.</td><td>Theologians <strong>have debated</strong> this topic for centuries.</td></tr></tbody></table><h2>2. O Poder dos Verbos Modais</h2><p>Verbos modais são pequenas palavras que vêm antes do verbo principal e alteram radicalmente seu significado. Eles expressam o grau de certeza, possibilidade, necessidade ou obrigação. Entendê-los é crucial para não interpretar mal a força de um argumento.</p><p>Pense neles como um 'espectro de certeza':</p><h3>A. Alta Certeza: Necessidade e Obrigação Forte</h3><ul><li><strong>Must:</strong> (deve, tem que) - Indica uma conclusão lógica ou uma obrigação inevitável.<br><em>Ex: If God is sovereign, then he <strong>must</strong> be in control of all things.</em></li><li><strong>Shall:</strong> (deve, -rá) - Usado em linguagem formal ou legal para expressar um comando ou uma promessa firme.<br><em>Ex: You <strong>shall</strong> love the Lord your God.</em></li></ul><h3>B. Certeza Média: Recomendação e Expectativa</h3><ul><li><strong>Should / Ought to:</strong> (deveria) - Indica uma recomendação, um conselho ou o que é considerado correto.<br><em>Ex: A pastor <strong>should</strong> study the original languages.</em></li></ul><h3>C. Baixa Certeza: Possibilidade e Permissão</h3><ul><li><strong>May / Might:</strong> (pode, poderia) - Expressam possibilidade. 'Might' geralmente indica uma possibilidade mais remota que 'may'.<br><em>Ex: One <strong>might</strong> argue that this view is incorrect, but...</em></li><li><strong>Can / Could:</strong> (pode, poderia) - Expressam habilidade ou possibilidade.<br><em>Ex: This passage <strong>can</strong> be interpreted in two different ways.</em></li></ul><div style='background: #e3f2fd; padding: 1.5rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #0056b3;'><p><strong>Dica de Leitura:</strong> Ao ler, preste muita atenção aos verbos modais. Um autor que escreve 'this *might* be the case' (este *pode ser* o caso) está apenas explorando uma ideia. Um autor que escreve 'this *must* be the case' (este *deve ser* o caso) está afirmando uma conclusão forte. A diferença é teologicamente gigantesca.</p></div></div>"
+      },
+      "flashcards": [
+        { "front": "Simple Present", "back": "Uso: Verdades gerais e atemporais. Ex: 'The Bible teaches...'" },
+        { "front": "Simple Past", "back": "Uso: Eventos históricos concluídos. Ex: 'Calvin wrote...'" },
+        { "front": "Present Perfect", "back": "Uso: Ação passada com relevância no presente. Ex: 'Scholars have debated...'" },
+        { "front": "Verbos Modais", "back": "Palavras que modificam o verbo principal para expressar possibilidade, necessidade, etc." },
+        { "front": "must / shall", "back": "Modais de ALTA CERTEZA: expressam necessidade ou obrigação forte." },
+        { "front": "should / ought to", "back": "Modais de CERTEZA MÉDIA: expressam recomendação ou expectativa." },
+        { "front": "may / might", "back": "Modais de BAIXA CERTEZA: expressam possibilidade." },
+        { "front": "can / could", "back": "Modais de BAIXA CERTEZA: expressam habilidade ou possibilidade." }
+      ],
+      "exercises": [
+        {
+          "question": "Um autor escreve: 'God is holy.' Qual tempo verbal ele usou e por quê?",
+          "options": ["Simple Past, para um evento histórico.", "Present Perfect, para uma ação com relevância hoje.", "Simple Present, para declarar uma verdade atemporal.", "Futuro, para uma promessa."],
+          "correct": 2,
+          "difficulty": "easy",
+          "explanation": "O Simple Present é usado para declarar verdades teológicas consideradas atemporais e sempre verdadeiras."
+        },
+        {
+          "question": "Na frase 'One might argue against this point', o que o modal 'might' indica?",
+          "options": ["Que o autor concorda totalmente com o argumento.", "Que o argumento é uma conclusão inevitável.", "Que o argumento é apenas uma possibilidade que está sendo considerada.", "Que o autor recomenda fortemente este argumento."],
+          "correct": 2,
+          "difficulty": "medium",
+          "explanation": "'Might' expressa uma possibilidade, muitas vezes remota ou hipotética. O autor está apresentando uma visão, não necessariamente a endossando."
+        },
+        {
+          "question": "Qual frase expressa uma obrigação mais forte?",
+          "options": ["A) The student should read the book.", "B) The student must read the book."],
+          "correct": 1,
+          "difficulty": "medium",
+          "explanation": "'Should' é uma recomendação (o estudante deveria ler). 'Must' é uma obrigação ou necessidade forte (o estudante tem que ler)."
+        },
+        {
+          "question": "A frase 'Theologians have written much about this...' usa o Present Perfect para indicar que:",
+          "options": ["A escrita aconteceu apenas no passado distante.", "Ninguém escreve mais sobre isso.", "A escrita começou no passado e o corpo de literatura sobre o tema continua relevante hoje.", "A escrita acontecerá no futuro."],
+          "correct": 2,
+          "difficulty": "hard",
+          "explanation": "O Present Perfect ('have written') conecta o passado ao presente. A ação de escrever aconteceu no passado, mas o resultado (a existência de muita literatura sobre o tema) é um fato presente e relevante."
+        }
+      ]
+    }
+  ]
+}
