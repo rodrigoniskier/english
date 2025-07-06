@@ -1,0 +1,53 @@
+{
+  "courseTitle": "Inglês Instrumental em Teologia Reformada",
+  "courseDescription": "Um curso online para autodidatas, focado no desenvolvimento da habilidade de leitura e compreensão de textos teológicos reformados em inglês.",
+  "modules": [
+    {
+      "moduleId": "M10",
+      "moduleTitle": "Lendo os Teólogos de Princeton",
+      "learningObjectives": [
+        "Compreender o estilo de escrita acadêmico e apologético dos teólogos de Princeton.",
+        "Analisar a estrutura lógica e o fluxo de um argumento de J. Gresham Machen.",
+        "Identificar o uso de tempos verbais como o Present Perfect para fazer uma afirmação com relevância contínua.",
+        "Aprender vocabulário-chave relacionado ao debate entre o cristianismo histórico e o liberalismo."
+      ],
+      "content": {
+        "html": "<div><h1>Módulo 10: Lendo os Teólogos de Princeton</h1><p>Os teólogos da 'Antiga Princeton' (como Charles Hodge, B. B. Warfield e J. Gresham Machen) foram figuras centrais na defesa da fé reformada contra o modernismo no século XIX e início do XX. Sua escrita é caracterizada por uma lógica rigorosa e um estilo acadêmico preciso.</p><p>Analisaremos um parágrafo da introdução da obra mais famosa de Machen, <em>'Christianity and Liberalism'</em> (1923), onde ele estabelece sua tese principal.</p><hr><h2>1. O Texto Original</h2><blockquote style='font-style: italic; border-left: 4px solid #ccc; padding-left: 15px; margin-left: 20px;'>“The liberal attempt at reconciling Christianity with modern science has been a failure. The supposed achievement of liberalism has been gained at the cost of relinquishing everything that is distinctively Christian. It is no wonder, then, that the liberal preacher is unable to bring the Christian message with any power. He is propagating, not a new school of Christian thought, but a religion of his own.”</blockquote><hr><h2>2. Análise Guiada</h2><p>Vamos dissecar o argumento de Machen, que se constrói com uma lógica implacável.</p><h3>Frase 1:</h3><p><em>“The liberal attempt at reconciling Christianity with modern science has been a failure.”</em></p><ul><li><strong>Análise Gramatical:</strong> Note o uso do <strong>Present Perfect</strong> ('has been'). Machen não usa o Simple Past ('was a failure'). Ele usa o Present Perfect para argumentar que a tentativa liberal, que ocorreu no passado, continua sendo um fracasso com resultados até o presente.</li><li><strong>Vocabulário-Chave:</strong><ul><li><strong>attempt:</strong> tentativa.</li><li><strong>reconciling:</strong> (ato de) reconciliar.</li><li><strong>failure:</strong> fracasso.</li></ul></li><li><strong>Tradução Comentada:</strong> 'A tentativa liberal de reconciliar o Cristianismo com a ciência moderna tem sido um fracasso.'</li></ul><h3>Frase 2:</h3><p><em>“The supposed achievement of liberalism has been gained at the cost of relinquishing everything that is distinctively Christian.”</em></p><ul><li><strong>Análise Gramatical:</strong> Machen usa a <strong>voz passiva</strong> ('has been gained' - foi obtido) para focar na 'suposta conquista', não em quem a conquistou. A frase 'that is distinctively Christian' é uma <strong>oração relativa</strong> que define 'everything'.</li><li><strong>Vocabulário-Chave:</strong><ul><li><strong>supposed:</strong> suposto, pretenso.</li><li><strong>achievement:</strong> conquista, realização.</li><li><strong>at the cost of:</strong> ao custo de.</li><li><strong>relinquishing:</strong> renunciando, abandonando.</li><li><strong>distinctively:</strong> distintamente, caracteristicamente.</li></ul></li><li><strong>Tradução Comentada:</strong> 'A suposta conquista do liberalismo foi obtida ao custo de renunciar a tudo o que é distintamente cristão.'</li></ul><h3>Frase 3 e 4:</h3><p><em>“It is no wonder, then, that the liberal preacher is unable to bring the Christian message with any power. He is propagating, not a new school of Christian thought, but a religion of his own.”</em></p><ul><li><strong>Análise Gramatical:</strong> O conector lógico <strong>'then'</strong> (então) mostra que esta é uma conclusão que se segue da frase anterior. A estrutura final 'not A, but B' é uma ferramenta retórica poderosa para criar um contraste agudo e enfático.</li><li><strong>Vocabulário-Chave:</strong><ul><li><strong>it is no wonder:</strong> não é de se espantar, não é surpresa.</li><li><strong>unable:</strong> incapaz.</li><li><strong>power:</strong> poder, força.</li><li><strong>propagating:</strong> propagando, divulgando.</li><li><strong>school of thought:</strong> escola de pensamento.</li></ul></li><li><strong>Tradução Comentada:</strong> 'Não é de se espantar, então, que o pregador liberal seja incapaz de trazer a mensagem cristã com qualquer poder. Ele está propagando, não uma nova escola de pensamento cristão, mas uma religião própria.'</li></ul><hr><h2>3. Resumo do Argumento</h2><p>O fluxo lógico de Machen é uma escada:<br>1. <strong>Premissa 1:</strong> A tentativa liberal de ser 'moderna' falhou.<br>2. <strong>Razão:</strong> Falhou porque, para alcançar isso, abandonou o núcleo do Cristianismo.<br>3. <strong>Consequência:</strong> Como abandonou o núcleo, sua pregação não tem poder.<br>4. <strong>Conclusão Final:</strong> Se não tem o núcleo e não tem o poder, então não é Cristianismo de forma alguma; é outra religião.</p></div>"
+      },
+      "flashcards": [
+        { "front": "The Princeton Theologians", "back": "Grupo de teólogos reformados (séc. XIX-XX) que defenderam a ortodoxia contra o liberalismo." },
+        { "front": "J. Gresham Machen", "back": "Teólogo de Princeton, autor de 'Cristianismo e Liberalismo' (1923)." },
+        { "front": "Attempt", "back": "Tentativa (n.)" },
+        { "front": "Failure", "back": "Fracasso (n.)" },
+        { "front": "To relinquish", "back": "Renunciar, abandonar (v.)" },
+        { "front": "Distinctively", "back": "Distintamente, caracteristicamente (adv.)" },
+        { "front": "Supposed", "back": "Suposto, pretenso (adj.)" },
+        { "front": "To propagate", "back": "Propagar, divulgar (v.)" },
+        { "front": "Estrutura 'not A, but B'", "back": "Recurso retórico para criar um contraste forte e claro." }
+      ],
+      "exercises": [
+        {
+          "question": "De acordo com Machen, qual foi o 'custo' da suposta conquista do liberalismo?",
+          "options": ["A amizade com os conservadores.", "A renúncia a tudo que é distintamente cristão.", "Muito dinheiro.", "A popularidade com a ciência moderna."],
+          "correct": 1,
+          "difficulty": "easy",
+          "explanation": "O texto afirma claramente: 'at the cost of relinquishing everything that is distinctively Christian'."
+        },
+        {
+          "question": "Por que Machen usa o tempo verbal 'has been a failure' na primeira frase?",
+          "options": ["Para indicar que o fracasso aconteceu apenas no passado.", "Para sugerir que o fracasso pode ser revertido no futuro.", "Para mostrar que o fracasso começou no passado e seus resultados continuam até o presente.", "Para expressar uma opinião pessoal sem muita certeza."],
+          "correct": 2,
+          "difficulty": "medium",
+          "explanation": "O Present Perfect (has been) é usado para conectar uma ação ou estado passado com o presente, indicando relevância contínua."
+        },
+        {
+          "question": "Qual é a conclusão final do argumento de Machen neste parágrafo?",
+          "options": ["Que o liberalismo é uma versão válida, porém mais fraca, do Cristianismo.", "Que o liberalismo e a ciência moderna são compatíveis.", "Que o liberalismo precisa de pregadores mais poderosos.", "Que o liberalismo não é uma forma de Cristianismo, mas uma religião diferente."],
+          "correct": 3,
+          "difficulty": "hard",
+          "explanation": "Sua conclusão é a afirmação mais forte e o clímax de seu argumento: '...not a new school of Christian thought, but a religion of his own.'"
+        }
+      ]
+    }
+  ]
+}
