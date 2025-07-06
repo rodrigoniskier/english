@@ -1,0 +1,61 @@
+{
+  "courseTitle": "Inglês Instrumental em Teologia Reformada",
+  "courseDescription": "Um curso online para autodidatas, focado no desenvolvimento da habilidade de leitura e compreensão de textos teológicos reformados em inglês.",
+  "modules": [
+    {
+      "moduleId": "M05",
+      "moduleTitle": "Conectando Ideias: Conjunções e Conectores Lógicos",
+      "learningObjectives": [
+        "Compreender a função dos conectores lógicos como 'sinais de trânsito' em um texto.",
+        "Identificar e traduzir conjunções coordenativas simples (and, but, or, so).",
+        "Aprender um vocabulário de conectores lógicos avançados usados para expressar contraste, conclusão e adição.",
+        "Desenvolver a habilidade de prever a direção de um argumento com base no conector utilizado."
+      ],
+      "content": {
+        "html": "<div><h1>Módulo 5: Conectando Ideias com Conjunções e Conectores Lógicos</h1><p>Entender uma frase de cada vez é uma habilidade. Entender como as frases se conectam para formar um argumento coeso é o próximo nível. Os conectores lógicos são as 'placas de sinalização' que os autores usam para guiar o seu raciocínio. Vamos aprendê-los.</p><h2>1. Conjunções Coordenativas Simples</h2><p>Estas são as palavras de ligação mais básicas que você já conhece.</p><ul><li><strong>And</strong> (e): Adiciona uma ideia similar.</li><li><strong>But</strong> (mas): Introduz um contraste simples.</li><li><strong>Or</strong> (ou): Apresenta uma alternativa.</li><li><strong>So</strong> (então, por isso): Mostra um resultado simples.</li></ul><hr><h2>2. A Caixa de Ferramentas da Argumentação: Conectores Lógicos</h2><p>Textos teológicos e acadêmicos usam conectores mais formais e precisos. Aprender a reconhecê-los por sua função é a chave.</p><h3>Categoria 1: Contraste e Concessão (Sinalizam uma mudança de direção)</h3><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: var(--color-primary); color: white;'><th style='padding: 1rem; border: 1px solid #ddd;'>Conector</th><th style='padding: 1rem; border: 1px solid #ddd;'>Tradução Comum</th></tr></thead><tbody><tr><td><strong>However</strong></td><td>No entanto, contudo</td></tr><tr><td><strong>Nevertheless / Nonetheless</strong></td><td>Não obstante, mesmo assim</td></tr><tr><td><strong>Although / Though</strong></td><td>Embora, apesar de</td></tr><tr><td><strong>On the other hand</strong></td><td>Por outro lado</td></tr><tr><td><strong>Whereas</strong></td><td>Enquanto que</td></tr></tbody></table><p><em>Ex: <strong>Although</strong> God is sovereign, man is still responsible for his actions.</em></p><h3>Categoria 2: Causa, Efeito e Conclusão (Sinalizam um resultado lógico)</h3><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: #28a745; color: white;'><th style='padding: 1rem; border: 1px solid #ddd;'>Conector</th><th style='padding: 1rem; border: 1px solid #ddd;'>Tradução Comum</th></tr></thead><tbody><tr><td><strong>Therefore</strong></td><td>Portanto, por isso</td></tr><tr><td><strong>Thus</strong></td><td>Assim, desta forma</td></tr><tr><td><strong>Consequently / As a result</strong></td><td>Consequentemente, como resultado</td></tr><tr><td><strong>Hence</strong></td><td>Daí, por isso</td></tr></tbody></table><p><em>Ex: All have sinned; <strong>therefore</strong>, all need a Savior.</em></p><h3>Categoria 3: Adição e Continuação (Sinalizam que mais uma prova está chegando)</h3><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: var(--color-primary); color: white;'><th style='padding: 1rem; border: 1px solid #ddd;'>Conector</th><th style='padding: 1rem; border: 1px solid #ddd;'>Tradução Comum</th></tr></thead><tbody><tr><td><strong>Furthermore / Moreover</strong></td><td>Além disso, ademais</td></tr><tr><td><strong>In addition</strong></td><td>Em adição</td></tr><tr><td><strong>Likewise</strong></td><td>Da mesma forma, igualmente</td></tr></tbody></table><p><em>Ex: Justification is by faith alone; <strong>furthermore</strong>, it is an act of God's free grace.</em></p><div style='background: #e3f2fd; padding: 1.5rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #0056b3;'><p><strong>Dica de Leitura Ativa:</strong> Ao encontrar um desses conectores no início de uma frase, <strong>PARE</strong>. Pergunte a si mesmo: 'Qual é a relação desta nova frase com a anterior?' Essa pausa para identificar a 'placa de sinalização' irá transformar sua capacidade de seguir um argumento complexo.</p></div></div>"
+      },
+      "flashcards": [
+        { "front": "However", "back": "No entanto, contudo (Contraste)" },
+        { "front": "Nevertheless / Nonetheless", "back": "Não obstante, mesmo assim (Contraste Forte)" },
+        { "front": "Although", "back": "Embora, apesar de (Concessão)" },
+        { "front": "Therefore", "back": "Portanto, por isso (Conclusão)" },
+        { "front": "Thus", "back": "Assim, desta forma (Conclusão/Resultado)" },
+        { "front": "Consequently", "back": "Consequentemente (Resultado)" },
+        { "front": "Furthermore / Moreover", "back": "Além disso, ademais (Adição de um ponto)" },
+        { "front": "Likewise", "back": "Da mesma forma (Comparação/Adição)" },
+        { "front": "Hence", "back": "Daí, por isso (Inferência)" },
+        { "front": "Whereas", "back": "Enquanto que (Contraste)" }
+      ],
+      "exercises": [
+        {
+          "question": "Qual conector lógico é usado para introduzir uma conclusão baseada na evidência anterior?",
+          "options": ["However", "Furthermore", "Therefore", "Although"],
+          "correct": 2,
+          "difficulty": "easy",
+          "explanation": "'Therefore' (portanto) é a palavra-sinal clássica para uma conclusão lógica."
+        },
+        {
+          "question": "Na frase: 'The work of Christ is sufficient for all; ________, it is efficient only for the elect.' Qual conector de contraste se encaixa melhor?",
+          "options": ["Furthermore", "Therefore", "However", "For instance"],
+          "correct": 2,
+          "difficulty": "medium",
+          "explanation": "A frase estabelece um contraste entre a suficiência e a eficiência da expiação. 'However' (no entanto) é o conector de contraste ideal."
+        },
+        {
+          "question": "O que a palavra 'Although' indica no início de uma frase?",
+          "options": ["Uma causa para o que se segue.", "Uma concessão, ou seja, o autor admite um ponto para então apresentar outro em contraste.", "Um exemplo do ponto anterior.", "Uma conclusão final."],
+          "correct": 1,
+          "difficulty": "hard",
+          "explanation": "'Although' (embora) é usado para fazer uma concessão. Ele admite a verdade da primeira cláusula ('embora a doutrina seja complexa...') para dar mais força à segunda ('...ela é bíblica')."
+        },
+        {
+          "question": "Se um autor quer adicionar mais um argumento para reforçar seu ponto, qual conector ele provavelmente usaria?",
+          "options": ["Consequently", "On the other hand", "Nonetheless", "Moreover"],
+          "correct": 3,
+          "difficulty": "medium",
+          "explanation": "'Moreover' ou 'Furthermore' (além disso) são usados para adicionar mais um ponto ou evidência na mesma linha de argumentação."
+        }
+      ]
+    }
+  ]
+}
