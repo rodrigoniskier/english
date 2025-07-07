@@ -12,17 +12,7 @@
         "Diferenciar entre orações relativas restritivas (essenciais) e não-restritivas (explicativas)."
       ],
       "content": {
-        "html": "<div><h1>Módulo 6: Frases Complexas e Orações Relativas</h1><p>Até agora, analisamos frases e como elas se conectam. Mas e quando uma frase contém outra 'embutida' nela? Isso é uma frase complexa. A forma mais comum disso acontecer é através de <strong>orações relativas</strong>.</p><h2>1. O que é uma Oração Relativa?</h2><p>Uma oração relativa é um grupo de palavras que funciona como um adjetivo: ela dá mais informações sobre um substantivo que veio antes. Ela geralmente responde à pergunta 'qual?' ou 'que tipo de?'.</p><p>Elas são introduzidas por <strong>pronomes relativos</strong>:</p><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: var(--color-primary); color: white;'><th style='padding: 1rem; border: 1px solid #ddd;'>Pronome</th><th style='padding: 1rem; border: 1px solid #ddd;'>Uso</th><th style='padding: 1rem; border: 1px solid #ddd;'>Exemplo</th></tr></thead><tbody><tr><td><strong>who</strong></td><td>Pessoas (sujeito)</td><td>The theologian <strong>who wrote this</strong>... (O teólogo <strong>que escreveu isto</strong>...)</td></tr><tr><td><strong>whom</strong></td><td>Pessoas (objeto)</td><td>The author <strong>whom I quoted</strong>... (O autor <strong>a quem eu citei</strong>...)</td></tr><tr><td><strong>whose</strong></td><td>Posse</td><td>The writer <strong>whose book I read</strong>... (O escritor <strong>cujo livro eu li</strong>...)</td></tr><tr><td><strong>which</strong></td><td>Coisas ou ideias</td><td>The doctrine <strong>which we are studying</strong>... (A doutrina <strong>que estamos estudando</strong>...)</td></tr><tr><td><strong>that</strong></td><td>Pessoas ou coisas (coringa)</td><td>The argument <strong>that he presented</strong>... (O argumento <strong>que ele apresentou</strong>...)</td></tr></tbody></table><h2>2. A Estratégia de Leitura: Isolar a Cláusula</h2><p>A melhor maneira de ler uma frase longa com uma oração relativa é identificar a cláusula, 'retirá-la' mentalmente para entender a ideia principal, e depois 'colocá-la de volta' para entender os detalhes.</p><h4>Exemplo de Desconstrução:</h4><div style='background: #e3f2fd; padding: 1.5rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #0056b3;'>
-<p><strong>Frase Complexa:</strong></p>
-<p>The doctrine of justification, <strong>which was the central issue of the Reformation</strong>, is explained by Paul in Romans.</p>
-<p><strong>Passo 1: Isole a oração relativa.</strong> Ela começa com 'which' e termina antes do verbo principal 'is'.</p>
-<p><em>(which was the central issue of the Reformation)</em></p>
-<p><strong>Passo 2: Leia a frase principal sem a cláusula.</strong></p>
-<p>The doctrine of justification is explained by Paul in Romans.</p>
-<p><em>(Tradução do núcleo: A doutrina da justificação é explicada por Paulo em Romanos.)</em></p>
-<p><strong>Passo 3: Reintegre a informação da cláusula.</strong></p>
-<p><em>(Informação extra: a propósito, essa doutrina foi o ponto central da Reforma.)</em></p>
-</div><h2>3. Dica de Pontuação: Vírgulas Importam</h2><p>As vírgulas podem lhe dar uma pista sobre a importância da cláusula:</p><ul><li><strong>Sem vírgulas (Restritiva):</strong> A informação é <em>essencial</em> para identificar o substantivo.<br><em>Ex: The book <strong>that I read yesterday</strong> was excellent.</em> (A cláusula especifica QUAL livro foi excelente).</li><li><strong>Com vírgulas (Não-restritiva):</strong> A informação é <em>extra</em>, um 'parêntese'.<br><em>Ex: Calvin's Institutes, <strong>which is a very long book</strong>, is a masterpiece.</em> (A cláusula apenas adiciona um fato sobre os Institutos, que já estão identificados).</li></ul></div>"
+        "html": "<div><h1>Módulo 6: Frases Complexas e Orações Relativas</h1><p>Até agora, analisamos frases e como elas se conectam. Mas e quando uma frase contém outra 'embutida' nela? Isso é uma frase complexa. A forma mais comum disso acontecer é através de <strong>orações relativas</strong>.</p><h2>1. O que é uma Oração Relativa?</h2><p>Uma oração relativa é um grupo de palavras que funciona como um adjetivo: ela dá mais informações sobre um substantivo que veio antes. Ela geralmente responde à pergunta 'qual?' ou 'que tipo de?'.</p><p>Elas são introduzidas por <strong>pronomes relativos</strong>:</p><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: var(--color-primary); color: white;'><th style='padding: 1rem; border: 1px solid #ddd;'>Pronome</th><th style='padding: 1rem; border: 1px solid #ddd;'>Uso</th><th style='padding: 1rem; border: 1px solid #ddd;'>Exemplo</th></tr></thead><tbody><tr><td><strong>who</strong></td><td>Pessoas (sujeito)</td><td>The theologian <strong>who wrote this</strong>... (O teólogo <strong>que escreveu isto</strong>...)</td></tr><tr><td><strong>whom</strong></td><td>Pessoas (objeto)</td><td>The author <strong>whom I quoted</strong>... (O autor <strong>a quem eu citei</strong>...)</td></tr><tr><td><strong>whose</strong></td><td>Posse</td><td>The writer <strong>whose book I read</strong>... (O escritor <strong>cujo livro eu li</strong>...)</td></tr><tr><td><strong>which</strong></td><td>Coisas ou ideias</td><td>The doctrine <strong>which we are studying</strong>... (A doutrina <strong>que estamos estudando</strong>...)</td></tr><tr><td><strong>that</strong></td><td>Pessoas ou coisas (coringa)</td><td>The argument <strong>that he presented</strong>... (O argumento <strong>que ele apresentou</strong>...)</td></tr></tbody></table><h2>2. A Estratégia de Leitura: Isolar a Cláusula</h2><p>A melhor maneira de ler uma frase longa com uma oração relativa é identificar a cláusula, 'retirá-la' mentalmente para entender a ideia principal, e depois 'colocá-la de volta' para entender os detalhes.</p><h4>Exemplo de Desconstrução:</h4><div style='background: #e3f2fd; padding: 1.5rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #0056b3;'><p><strong>Frase Complexa:</strong></p><p>The doctrine of justification, <strong>which was the central issue of the Reformation</strong>, is explained by Paul in Romans.</p><p><strong>Passo 1: Isole a oração relativa.</strong> Ela começa com 'which' e termina antes do verbo principal 'is'.</p><p><em>(which was the central issue of the Reformation)</em></p><p><strong>Passo 2: Leia a frase principal sem a cláusula.</strong></p><p>The doctrine of justification is explained by Paul in Romans.</p><p><em>(Tradução do núcleo: A doutrina da justificação é explicada por Paulo em Romanos.)</em></p><p><strong>Passo 3: Reintegre a informação da cláusula.</strong></p><p><em>(Informação extra: a propósito, essa doutrina foi o ponto central da Reforma.)</em></p></div><h2>3. Dica de Pontuação: Vírgulas Importam</h2><p>As vírgulas podem lhe dar uma pista sobre a importância da cláusula:</p><ul><li><strong>Sem vírgulas (Restritiva):</strong> A informação é <em>essencial</em> para identificar o substantivo.<br><em>Ex: The book <strong>that I read yesterday</strong> was excellent.</em> (A cláusula especifica QUAL livro foi excelente).</li><li><strong>Com vírgulas (Não-restritiva):</strong> A informação é <em>extra</em>, um 'parêntese'.<br><em>Ex: Calvin's Institutes, <strong>which is a very long book</strong>, is a masterpiece.</em> (A cláusula apenas adiciona um fato sobre os Institutos, que já estão identificados).</li></ul></div>"
       },
       "flashcards": [
         { "front": "Oração Relativa (Relative Clause)", "back": "Uma 'mini-frase' que funciona como adjetivo, dando mais informações sobre um substantivo." },
@@ -35,34 +25,10 @@
         { "front": "Oração com vírgulas", "back": "Geralmente indica que a informação é EXTRA, não essencial (Não-restritiva)." }
       ],
       "exercises": [
-        {
-          "question": "Qual pronome relativo é usado para se referir a coisas ou ideias?",
-          "options": ["who", "whose", "which", "whom"],
-          "correct": 2,
-          "difficulty": "easy",
-          "explanation": "'Which' é usado para coisas e ideias, enquanto 'who' é usado para pessoas."
-        },
-        {
-          "question": "Na frase 'The pastor who preaches every Sunday lives here', qual é a oração relativa?",
-          "options": ["The pastor", "lives here", "who preaches every Sunday", "every Sunday lives here"],
-          "correct": 2,
-          "difficulty": "medium",
-          "explanation": "A oração relativa começa com o pronome 'who' e descreve o substantivo 'pastor'. Ela é 'who preaches every Sunday'."
-        },
-        {
-          "question": "Na mesma frase 'The pastor who preaches every Sunday lives here', qual é a oração PRINCIPAL?",
-          "options": ["who preaches every Sunday", "The pastor lives here", "The pastor who preaches", "preaches every Sunday"],
-          "correct": 1,
-          "difficulty": "hard",
-          "explanation": "Removendo a oração relativa (que adiciona detalhes), o esqueleto da frase que sobra é 'The pastor lives here'."
-        },
-        {
-          "question": "Qual pronome relativo você usaria para completar a frase: 'This is the doctrine ____ was affirmed at the council.'?",
-          "options": ["who", "whose", "which/that", "whom"],
-          "correct": 2,
-          "difficulty": "medium",
-          "explanation": "Como 'doctrine' (doutrina) é uma ideia/coisa, os pronomes corretos seriam 'which' ou 'that'."
-        }
+        { "question": "Qual pronome relativo é usado para se referir a coisas ou ideias?", "options": ["who", "whose", "which", "whom"], "correct": 2, "difficulty": "easy", "explanation": "'Which' é usado para coisas e ideias, enquanto 'who' é usado para pessoas." },
+        { "question": "Na frase 'The pastor who preaches every Sunday lives here', qual é a oração relativa?", "options": ["The pastor", "lives here", "who preaches every Sunday", "every Sunday lives here"], "correct": 2, "difficulty": "medium", "explanation": "A oração relativa começa com o pronome 'who' e descreve o substantivo 'pastor'. Ela é 'who preaches every Sunday'." },
+        { "question": "Na mesma frase 'The pastor who preaches every Sunday lives here', qual é a oração PRINCIPAL?", "options": ["who preaches every Sunday", "The pastor lives here", "The pastor who preaches", "preaches every Sunday"], "correct": 1, "difficulty": "hard", "explanation": "Removendo a oração relativa (que adiciona detalhes), o esqueleto da frase que sobra é 'The pastor lives here'." },
+        { "question": "Qual pronome relativo você usaria para completar a frase: 'This is the doctrine ____ was affirmed at the council.'?", "options": ["who", "whose", "which/that", "whom"], "correct": 2, "difficulty": "medium", "explanation": "Como 'doctrine' (doutrina) é uma ideia/coisa, os pronomes corretos seriam 'which' ou 'that'." }
       ]
     }
   ]
