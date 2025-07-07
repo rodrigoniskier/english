@@ -1,0 +1,464 @@
+{
+  "lexiconTitle": "Léxico e Glossário do Curso",
+  "courseGlossary": {
+    "title": "Glossário Completo do Curso",
+    "description": "Todas as palavras-chave e vocabulário teológico ensinados nos 17 módulos do curso.",
+    "alphabet": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "L", "M", "N", "O", "P", "R", "S", "T", "U", "V", "W"],
+    "wordsByLetter": {
+      "A": [
+        { "english": "Achievement", "portuguese": "Conquista, realização (n.)" },
+        { "english": "Actually", "portuguese": "Na verdade, de fato. (Falso Cognato)" },
+        { "english": "Although", "portuguese": "Embora, apesar de (Conector de Contraste/Concessão)" },
+        { "english": "Argument", "portuguese": "Argumento, debate (n.)" },
+        { "english": "Atonement", "portuguese": "Expiação (n.)" },
+        { "english": "Attempt", "portuguese": "Tentativa (n.)" },
+        { "english": "Attribute", "portuguese": "Atributo, característica (n.)" }
+      ],
+      "C": [
+        { "english": "Calling", "portuguese": "Chamado, Vocação (n.)" },
+        { "english": "Can / Could", "portuguese": "Modais de POSSIBILIDADE ou HABILIDADE." },
+        { "english": "Ceased", "portuguese": "Cessou, parou (v.)" },
+        { "english": "Commitment", "portuguese": "Compromisso, dedicação (n.)" },
+        { "english": "To commit unto writing", "portuguese": "Confiar à escrita, registrar por escrito." },
+        { "english": "Communicable Attributes", "portuguese": "Atributos que Deus compartilha com a criação (ex: amor, justiça)." },
+        { "english": "Comprehensive", "portuguese": "Abrangente, completo. (Falso Cognato)" },
+        { "english": "Conditional Clause", "portuguese": "Oração Condicional ('Se... então...')" },
+        { "english": "Confessional Language", "portuguese": "Linguagem precisa e lógica de confissões de fé." },
+        { "english": "Consequently", "portuguese": "Consequentemente (Conector de Resultado)" },
+        { "english": "Covenant", "portuguese": "Aliança, Pacto (n.)" }
+      ],
+      "D": [
+        { "english": "Deceit", "portuguese": "Engano, fraude, trapaça (n.)" },
+        { "english": "To delight in", "portuguese": "Deleitar-se em, ter grande prazer em (v.)" },
+        { "english": "To deprive", "portuguese": "Privar, despojar, tirar algo de alguém (v.)" },
+        { "english": "Distinctively", "portuguese": "Distintamente, caracteristicamente (adv.)" },
+        { "english": "To distinguish", "portuguese": "Distinguir, diferenciar (v.)" },
+        { "english": "Doctrine", "portuguese": "Doutrina (n.)" }
+      ],
+      "E": [
+        { "english": "Election", "portuguese": "Eleição (n.)" },
+        { "english": "To enjoy", "portuguese": "Desfrutar, ter prazer em." },
+        { "english": "Eternity", "portuguese": "Eternidade (n.)" },
+        { "english": "Eventually", "portuguese": "Finalmente, com o tempo. (Falso Cognato)" },
+        { "english": "Exegesis", "portuguese": "O processo de extrair o significado de um texto." }
+      ],
+      "F": [
+        { "english": "Faith", "portuguese": "Fé (n.)" },
+        { "english": "Failure", "portuguese": "Fracasso (n.)" },
+        { "english": "False Friend", "portuguese": "Falso Cognato: palavra que parece mas não tem o mesmo significado." },
+        { "english": "Former ways", "portuguese": "Maneiras anteriores." },
+        { "english": "Furthermore / Moreover", "portuguese": "Além disso, ademais (Conector de Adição)" }
+      ],
+      "G": [
+        { "english": "Gist", "portuguese": "A ideia geral ou o ponto principal de um texto." },
+        { "english": "To Glorify", "portuguese": "Glorificar (v.)" },
+        { "english": "Gospel", "portuguese": "Evangelho (n.)" },
+        { "english": "Grace", "portuguese": "Graça (n.)" }
+      ],
+      "H": [
+        { "english": "Hence", "portuguese": "Daí, por isso (Conector de Inferência)" },
+        { "english": "However", "portuguese": "No entanto, contudo (Conector de Contraste)" }
+      ],
+      "I": [
+        { "english": "Imputation", "portuguese": "Imputação (n.)" },
+        { "english": "In accordance with", "portuguese": "De acordo com." },
+        { "english": "In light of", "portuguese": "À luz de." },
+        { "english": "Incommunicable Attributes", "portuguese": "Atributos que Deus NÃO compartilha com a criação." },
+        { "english": "Independence", "portuguese": "Independência, assidade (n.)" }
+      ],
+      "J": [
+        { "english": "J. Gresham Machen", "portuguese": "Teólogo de Princeton, autor de 'Cristianismo e Liberalismo'." },
+        { "english": "John Owen", "portuguese": "Importante teólogo puritano." },
+        { "english": "Justice", "portuguese": "Justiça (n.)" },
+        { "english": "To Justify", "portuguese": "Justificar (v.)" }
+      ],
+      "L": [
+        { "english": "Law", "portuguese": "Lei (n.)" },
+        { "english": "Likewise", "portuguese": "Da mesma forma (Conector de Comparação/Adição)" }
+      ],
+      "M": [
+        { "english": "May / Might", "portuguese": "Modais de BAIXA CERTEZA: expressam possibilidade." },
+        { "english": "Means of Grace", "portuguese": "Meios de Graça." },
+        { "english": "Mercy", "portuguese": "Misericórdia (n.)" },
+        { "english": "Mortification / To mortify", "portuguese": "Mortificação / O ato de fazer o pecado morrer." },
+        { "english": "Must / Shall", "portuguese": "Modais de ALTA CERTEZA: expressam necessidade ou obrigação forte." }
+      ],
+      "N": [
+        { "english": "Nevertheless / Nonetheless", "portuguese": "Não obstante, mesmo assim (Conector de Contraste Forte)" }
+      ],
+      "O": [
+        { "english": "Omnipresence", "portuguese": "Onipresença (n.)" }
+      ],
+      "P": [
+        { "english": "Passive Voice", "portuguese": "Foco na ação ou no receptor (to be + Particípio Passado)." },
+        { "english": "Perfections", "portuguese": "Perfeições (n.)" },
+        { "english": "Power", "portuguese": "Poder (n.)" },
+        { "english": "Prepositional Phrase", "portuguese": "Grupo de palavras que adiciona detalhes (in, for, by...)." },
+        { "english": "Present Perfect Tense", "portuguese": "Ação passada com relevância no presente (have + particípio)." },
+        { "english": "Pretend", "portuguese": "Fingir. (Falso Cognato)" },
+        { "english": "To propagate", "portuguese": "Propagar, divulgar (v.)" },
+        { "english": "Providence", "portuguese": "Providência (n.)" },
+        { "english": "The Puritans", "portuguese": "Teólogos e pastores (séc. XVI-XVII)." }
+      ],
+      "R": [
+        { "english": "Redemption", "portuguese": "Redenção (n.)" },
+        { "english": "Relative Clause", "portuguese": "Oração Relativa: 'mini-frase' que funciona como adjetivo." },
+        { "english": "Relative Pronouns", "portuguese": "who, whom, whose, which, that." },
+        { "english": "To relinquish", "portuguese": "Renunciar, abandonar (v.)" },
+        { "english": "To rephrase", "portuguese": "Reescrever ou dizer algo com outras palavras." },
+        { "english": "Righteousness", "portuguese": "Justiça, Retidão (n.)" }
+      ],
+      "S": [
+        { "english": "Salvation", "portuguese": "Salvação (n.)" },
+        { "english": "To Sanctify", "portuguese": "Santificar (v.)" },
+        { "english": "Scandalous", "portuguese": "Escandaloso, vergonhoso (adj.)" },
+        { "english": "Scripture", "portuguese": "Escritura (n.)" },
+        { "english": "Self-glorification", "portuguese": "Auto-glorificação (n.)" },
+        { "english": "To share", "portuguese": "Compartilhar (v.)" },
+        { "english": "Should / Ought to", "portuguese": "Modais de CERTEZA MÉDIA: expressam recomendação." },
+        { "english": "Simple Past Tense", "portuguese": "Uso: Eventos históricos concluídos." },
+        { "english": "Simple Present Tense", "portuguese": "Uso: Verdades gerais e atemporais." },
+        { "english": "Sin", "portuguese": "Pecado (n.)" },
+        { "english": "Soul", "portuguese": "Alma (n.)" },
+        { "english": "Sovereignty", "portuguese": "Soberania (n.)" },
+        { "english": "Sufficient", "portuguese": "Suficiente (adj.)" },
+        { "english": "Supposed", "portuguese": "Suposto, pretenso (adj.)" },
+        { "english": "Supreme worth", "portuguese": "Valor supremo." },
+        { "english": "Systematic Theology", "portuguese": "Gênero que organiza as doutrinas de forma lógica." }
+      ],
+      "T": [
+        { "english": "Therefore", "portuguese": "Portanto, por isso (Conector de Conclusão)" },
+        { "english": "To treasure", "portuguese": "Atesourar, valorizar imensamente (v.)" },
+        { "english": "Thus", "portuguese": "Assim, desta forma (Conector de Conclusão/Resultado)" }
+      ],
+      "U": [
+        { "english": "Unchangeableness", "portuguese": "Imutabilidade (n.)" },
+        { "english": "Unexcusable", "portuguese": "Indesculpável (adj.)" },
+        { "english": "Unto", "portuguese": "Forma arcaica de 'to' ou 'for' (para)." }
+      ],
+      "V": [
+        { "english": "Vigor", "portuguese": "Vigor, força, vitalidade (n.)" }
+      ],
+      "W": [
+        { "english": "Whereas", "portuguese": "Enquanto que (Conector de Contraste)" },
+        { "english": "Worship", "portuguese": "Adoração (n.); Adorar (v.)" }
+      ]
+    }
+  },
+  "frequencyLexicon": {
+    "title": "Léxico de Frequência (Palavras > 50x na ESV)",
+    "description": "Uma lista das palavras mais comuns na English Standard Version para acelerar sua leitura independente da Bíblia.",
+    "alphabet": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "Y"],
+    "wordsByLetter": {
+        "A": [
+            { "english": "a, an", "info": "artigo", "portuguese": "um, uma" },
+            { "english": "about", "info": "prep.", "portuguese": "sobre, acerca de" },
+            { "english": "above", "info": "prep./adv.", "portuguese": "acima" },
+            { "english": "according", "info": "adv.", "portuguese": "de acordo com" },
+            { "english": "after", "info": "prep./conj.", "portuguese": "depois, após" },
+            { "english": "again", "info": "adv.", "portuguese": "novamente, de novo" },
+            { "english": "against", "info": "prep.", "portuguese": "contra" },
+            { "english": "all", "info": "adj./pron.", "portuguese": "todo, toda, todos, todas" },
+            { "english": "also", "info": "adv.", "portuguese": "também" },
+            { "english": "always", "info": "adv.", "portuguese": "sempre" },
+            { "english": "am", "info": "verbo", "portuguese": "sou, estou (verbo 'to be')" },
+            { "english": "among", "info": "prep.", "portuguese": "entre (em meio a)" },
+            { "english": "and", "info": "conj.", "portuguese": "e" },
+            { "english": "another", "info": "adj./pron.", "portuguese": "outro, outra" },
+            { "english": "any", "info": "adj./pron.", "portuguese": "qualquer, algum, nenhuma" },
+            { "english": "are", "info": "verbo", "portuguese": "são, estão, é, está" },
+            { "english": "around", "info": "prep./adv.", "portuguese": "ao redor de" },
+            { "english": "as", "info": "conj./prep.", "portuguese": "como, enquanto" },
+            { "english": "at", "info": "prep.", "portuguese": "em, a, às" }
+        ],
+        "B": [
+            { "english": "be", "info": "verbo", "portuguese": "ser, estar" },
+            { "english": "because", "info": "conj.", "portuguese": "porque" },
+            { "english": "been", "info": "verbo", "portuguese": "sido, estado (particípio de 'to be')" },
+            { "english": "before", "info": "prep./conj.", "portuguese": "antes" },
+            { "english": "behold", "info": "interj.", "portuguese": "eis, vede" },
+            { "english": "being", "info": "verbo/subst.", "portuguese": "sendo, ser" },
+            { "english": "believe", "info": "verbo", "portuguese": "crer, acreditar" },
+            { "english": "between", "info": "prep.", "portuguese": "entre (dois)" },
+            { "english": "blessed", "info": "adj.", "portuguese": "abençoado, bendito" },
+            { "english": "blood", "info": "subst.", "portuguese": "sangue" },
+            { "english": "both", "info": "pron./adj.", "portuguese": "ambos, ambas" },
+            { "english": "bring", "info": "verbo", "portuguese": "trazer" },
+            { "english": "brother", "info": "subst.", "portuguese": "irmão" },
+
+            { "english": "but", "info": "conj.", "portuguese": "mas, porém" },
+            { "english": "by", "info": "prep.", "portuguese": "por, pelo, perto de" }
+        ],
+        "C": [
+            { "english": "call", "info": "verbo", "portuguese": "chamar" },
+            { "english": "came", "info": "verbo", "portuguese": "veio, vieram (passado de 'come')" },
+            { "english": "can", "info": "verbo modal", "portuguese": "poder, conseguir" },
+            { "english": "cannot", "info": "verbo modal", "portuguese": "não poder, não conseguir" },
+            { "english": "children", "info": "subst.", "portuguese": "crianças, filhos" },
+            { "english": "Christ", "info": "subst.", "portuguese": "Cristo" },
+            { "english": "church", "info": "subst.", "portuguese": "igreja" },
+            { "english": "city", "info": "subst.", "portuguese": "cidade" },
+            { "english": "come", "info": "verbo", "portuguese": "vir" },
+            { "english": "commandment", "info": "subst.", "portuguese": "mandamento" },
+            { "english": "covenant", "info": "subst.", "portuguese": "aliança, pacto" }
+        ],
+        "D": [
+            { "english": "day", "info": "subst.", "portuguese": "dia" },
+            { "english": "death", "info": "subst.", "portuguese": "morte" },
+            { "english": "did", "info": "verbo", "portuguese": "fez (passado de 'do')" },
+            { "english": "do", "info": "verbo", "portuguese": "fazer" },
+            { "english": "does", "info": "verbo", "portuguese": "faz (3ª pessoa de 'do')" },
+            { "english": "down", "info": "adv./prep.", "portuguese": "para baixo" }
+        ],
+        "E": [
+            { "english": "each", "info": "adj./pron.", "portuguese": "cada" },
+            { "english": "earth", "info": "subst.", "portuguese": "terra" },
+            { "english": "eat", "info": "verbo", "portuguese": "comer" },
+            { "english": "eternal", "info": "adj.", "portuguese": "eterno" },
+            { "english": "even", "info": "adv.", "portuguese": "até mesmo, ainda" },
+            { "english": "every", "info": "adj.", "portuguese": "todo, toda, cada" },
+            { "english": "evil", "info": "adj./subst.", "portuguese": "mau, mal" },
+            { "english": "eye", "info": "subst.", "portuguese": "olho" }
+        ],
+        "F": [
+            { "english": "faith", "info": "subst.", "portuguese": "fé" },
+            { "english": "father", "info": "subst.", "portuguese": "pai" },
+            { "english": "fear", "info": "subst./verbo", "portuguese": "medo, temor; temer" },
+            { "english": "first", "info": "adj./adv.", "portuguese": "primeiro" },
+            { "english": "flesh", "info": "subst.", "portuguese": "carne" },
+            { "english": "for", "info": "prep./conj.", "portuguese": "para, por, pois" },
+            { "english": "from", "info": "prep.", "portuguese": "de, desde, a partir de" }
+        ],
+        "G": [
+            { "english": "gave", "info": "verbo", "portuguese": "deu (passado de 'give')" },
+            { "english": "give", "info": "verbo", "portuguese": "dar" },
+            { "english": "glory", "info": "subst.", "portuguese": "glória" },
+            { "english": "go", "info": "verbo", "portuguese": "ir" },
+            { "english": "God", "info": "subst.", "portuguese": "Deus" },
+            { "english": "good", "info": "adj.", "portuguese": "bom" },
+            { "english": "gospel", "info": "subst.", "portuguese": "evangelho" },
+            { "english": "grace", "info": "subst.", "portuguese": "graça" },
+            { "english": "great", "info": "adj.", "portuguese": "grande" }
+        ],
+        "H": [
+            { "english": "had", "info": "verbo", "portuguese": "tinha (passado de 'have')" },
+            { "english": "hand", "info": "subst.", "portuguese": "mão" },
+            { "english": "has", "info": "verbo", "portuguese": "tem (3ª pessoa de 'have')" },
+            { "english": "have", "info": "verbo", "portuguese": "ter" },
+            { "english": "he", "info": "pron.", "portuguese": "ele" },
+            { "english": "head", "info": "subst.", "portuguese": "cabeça" },
+            { "english": "hear", "info": "verbo", "portuguese": "ouvir" },
+            { "english": "heart", "info": "subst.", "portuguese": "coração" },
+            { "english": "heaven", "info": "subst.", "portuguese": "céu" },
+            { "english": "her", "info": "pron./adj.", "portuguese": "dela, a ela" },
+            { "english": "here", "info": "adv.", "portuguese": "aqui" },
+            { "english": "high", "info": "adj.", "portuguese": "alto" },
+            { "english": "him", "info": "pron.", "portuguese": "ele, a ele (objeto)" },
+            { "english": "himself", "info": "pron.", "portuguese": "ele mesmo" },
+            { "english": "his", "info": "adj.", "portuguese": "dele" },
+            { "english": "holy", "info": "adj.", "portuguese": "santo" },
+            { "english": "house", "info": "subst.", "portuguese": "casa" },
+            { "english": "how", "info": "adv.", "portuguese": "como" }
+        ],
+        "I": [
+            { "english": "I", "info": "pron.", "portuguese": "eu" },
+            { "english": "if", "info": "conj.", "portuguese": "se" },
+            { "english": "in", "info": "prep.", "portuguese": "em, dentro de" },
+            { "english": "into", "info": "prep.", "portuguese": "para dentro de" },
+            { "english": "is", "info": "verbo", "portuguese": "é, está" },
+            { "english": "Israel", "info": "subst.", "portuguese": "Israel" },
+            { "english": "it", "info": "pron.", "portuguese": "ele, ela (neutro)" }
+        ],
+        "J": [
+            { "english": "Jesus", "info": "subst.", "portuguese": "Jesus" },
+            { "english": "John", "info": "subst.", "portuguese": "João" },
+            { "english": "Judah", "info": "subst.", "portuguese": "Judá" },
+            { "english": "judge", "info": "verbo/subst.", "portuguese": "julgar; juiz" },
+            { "english": "judgment", "info": "subst.", "portuguese": "julgamento, juízo" },
+            { "english": "just", "info": "adj./adv.", "portuguese": "justo; apenas" },
+            { "english": "righteousness", "info": "subst.", "portuguese": "justiça, retidão" }
+        ],
+        "K": [
+            { "english": "king", "info": "subst.", "portuguese": "rei" },
+            { "english": "kingdom", "info": "subst.", "portuguese": "reino" },
+            { "english": "know", "info": "verbo", "portuguese": "saber, conhecer" }
+        ],
+        "L": [
+            { "english": "land", "info": "subst.", "portuguese": "terra, país" },
+            { "english": "law", "info": "subst.", "portuguese": "lei" },
+            { "english": "let", "info": "verbo", "portuguese": "deixar, permitir" },
+            { "english": "life", "info": "subst.", "portuguese": "vida" },
+            { "english": "light", "info": "subst.", "portuguese": "luz" },
+            { "english": "like", "info": "prep./verbo", "portuguese": "como; gostar" },
+            { "english": "little", "info": "adj.", "portuguese": "pequeno, pouco" },
+            { "english": "live", "info": "verbo", "portuguese": "viver, morar" },
+            { "english": "long", "info": "adj.", "portuguese": "longo, comprido" },
+            { "english": "Lord", "info": "subst.", "portuguese": "Senhor" },
+            { "english": "love", "info": "subst./verbo", "portuguese": "amor; amar" }
+        ],
+        "M": [
+            { "english": "made", "info": "verbo", "portuguese": "feito, fez (passado de 'make')" },
+            { "english": "make", "info": "verbo", "portuguese": "fazer, criar" },
+            { "english": "man", "info": "subst.", "portuguese": "homem" },
+            { "english": "many", "info": "adj.", "portuguese": "muitos, muitas" },
+            { "english": "may", "info": "verbo modal", "portuguese": "poder (possibilidade)" },
+            { "english": "me", "info": "pron.", "portuguese": "me, mim" },
+            { "english": "men", "info": "subst.", "portuguese": "homens" },
+            { "english": "mercy", "info": "subst.", "portuguese": "misericórdia" },
+            { "english": "might", "info": "verbo modal/subst.", "portuguese": "poderia; poder, força" },
+            { "english": "more", "info": "adv./adj.", "portuguese": "mais" },
+            { "english": "most", "info": "adv./adj.", "portuguese": "o mais, a maioria" },
+            { "english": "Moses", "info": "subst.", "portuguese": "Moisés" },
+            { "english": "my", "info": "adj.", "portuguese": "meu, minha" }
+        ],
+        "N": [
+            { "english": "name", "info": "subst.", "portuguese": "nome" },
+            { "english": "neither", "info": "conj.", "portuguese": "nem" },
+            { "english": "never", "info": "adv.", "portuguese": "nunca" },
+            { "english": "new", "info": "adj.", "portuguese": "novo" },
+            { "english": "no", "info": "det.", "portuguese": "não, nenhum" },
+            { "english": "nor", "info": "conj.", "portuguese": "nem" },
+            { "english": "not", "info": "adv.", "portuguese": "não" },
+            { "english": "nothing", "info": "pron.", "portuguese": "nada" },
+            { "english": "now", "info": "adv.", "portuguese": "agora" }
+        ],
+        "O": [
+            { "english": "O", "info": "interj.", "portuguese": "Ó" },
+            { "english": "of", "info": "prep.", "portuguese": "de, do, da" },
+            { "english": "offering", "info": "subst.", "portuguese": "oferta, sacrifício" },
+            { "english": "old", "info": "adj.", "portuguese": "velho, antigo" },
+            { "english": "on", "info": "prep.", "portuguese": "em, sobre, em cima de" },
+            { "english": "one", "info": "num./pron.", "portuguese": "um, uma" },
+            { "english": "only", "info": "adv./adj.", "portuguese": "somente, apenas; único" },
+            { "english": "or", "info": "conj.", "portuguese": "ou" },
+            { "english": "other", "info": "adj./pron.", "portuguese": "outro" },
+            { "english": "our", "info": "adj.", "portuguese": "nosso, nossa" },
+            { "english": "out", "info": "adv./prep.", "portuguese": "fora" },
+            { "english": "over", "info": "prep./adv.", "portuguese": "sobre, acima de" },
+            { "english": "own", "info": "adj.", "portuguese": "próprio" }
+        ],
+        "P": [
+            { "english": "peace", "info": "subst.", "portuguese": "paz" },
+            { "english": "people", "info": "subst.", "portuguese": "povo, pessoas" },
+            { "english": "power", "info": "subst.", "portuguese": "poder, força" },
+            { "english": "pray", "info": "verbo", "portuguese": "orar, rezar" },
+            { "english": "priest", "info": "subst.", "portuguese": "sacerdote" },
+            { "english": "prophet", "info": "subst.", "portuguese": "profeta" },
+            { "english": "put", "info": "verbo", "portuguese": "colocar, pôr" }
+        ],
+        "Q": [],
+        "R": [
+            { "english": "receive", "info": "verbo", "portuguese": "receber" },
+            { "english": "righteous", "info": "adj.", "portuguese": "justo, reto" }
+        ],
+        "S": [
+            { "english": "sacrifice", "info": "subst.", "portuguese": "sacrifício" },
+            { "english": "said", "info": "verbo", "portuguese": "disse (passado de 'say')" },
+            { "english": "saints", "info": "subst.", "portuguese": "santos" },
+            { "english": "salvation", "info": "subst.", "portuguese": "salvação" },
+            { "english": "save", "info": "verbo", "portuguese": "salvar" },
+            { "english": "saw", "info": "verbo", "portuguese": "viu (passado de 'see')" },
+            { "english": "say", "info": "verbo", "portuguese": "dizer" },
+            { "english": "Scripture", "info": "subst.", "portuguese": "Escritura" },
+            { "english": "see", "info": "verbo", "portuguese": "ver" },
+            { "english": "seek", "info": "verbo", "portuguese": "buscar, procurar" },
+            { "english": "send", "info": "verbo", "portuguese": "enviar" },
+            { "english": "sent", "info": "verbo", "portuguese": "enviou (passado de 'send')" },
+            { "english": "servant", "info": "subst.", "portuguese": "servo" },
+            { "english": "shall", "info": "verbo modal", "portuguese": "(indica futuro ou comando)" },
+            { "english": "she", "info": "pron.", "portuguese": "ela" },
+            { "english": "should", "info": "verbo modal", "portuguese": "deveria" },
+            { "english": "show", "info": "verbo", "portuguese": "mostrar" },
+            { "english": "sin", "info": "subst.", "portuguese": "pecado" },
+            { "english": "so", "info": "adv./conj.", "portuguese": "então, tão, por isso" },
+            { "english": "some", "info": "adj./pron.", "portuguese": "algum, alguns" },
+            { "english": "son", "info": "subst.", "portuguese": "filho" },
+            { "english": "soul", "info": "subst.", "portuguese": "alma" },
+            { "english": "speak", "info": "verbo", "portuguese": "falar" },
+            { "english": "Spirit", "info": "subst.", "portuguese": "Espírito" },
+            { "english": "still", "info": "adv.", "portuguese": "ainda" },
+            { "english": "such", "info": "adj.", "portuguese": "tal, tais" }
+        ],
+        "T": [
+            { "english": "take", "info": "verbo", "portuguese": "pegar, tomar" },
+            { "english": "tell", "info": "verbo", "portuguese": "dizer, contar" },
+            { "english": "temple", "info": "subst.", "portuguese": "templo" },
+            { "english": "than", "info": "conj.", "portuguese": "do que (comparativo)" },
+            { "english": "that", "info": "pron./conj.", "portuguese": "aquele, que" },
+            { "english": "the", "info": "artigo", "portuguese": "o, a, os, as" },
+            { "english": "their", "info": "adj.", "portuguese": "deles, delas" },
+            { "english": "them", "info": "pron.", "portuguese": "eles, elas, a eles, a elas" },
+            { "english": "themselves", "info": "pron.", "portuguese": "eles mesmos" },
+            { "english": "then", "info": "adv.", "portuguese": "então" },
+            { "english": "there", "info": "adv.", "portuguese": "lá, ali, há" },
+            { "english": "therefore", "info": "adv.", "portuguese": "portanto" },
+            { "english": "these", "info": "pron./adj.", "portuguese": "estes, estas" },
+            { "english": "they", "info": "pron.", "portuguese": "eles, elas" },
+            { "english": "thing", "info": "subst.", "portuguese": "coisa" },
+            { "english": "think", "info": "verbo", "portuguese": "pensar, achar" },
+            { "english": "this", "info": "pron./adj.", "portuguese": "este, esta, isto" },
+            { "english": "those", "info": "pron./adj.", "portuguese": "aqueles, aquelas" },
+            { "english": "though", "info": "conj.", "portuguese": "embora" },
+            { "english": "through", "info": "prep.", "portuguese": "através de" },
+            { "english": "thus", "info": "adv.", "portuguese": "assim, desta forma" },
+            { "english": "thy", "info": "adj.", "portuguese": "teu, tua (arcaico)" },
+            { "english": "to", "info": "prep.", "portuguese": "para, a" },
+            { "english": "together", "info": "adv.", "portuguese": "juntos" },
+            { "english": "told", "info": "verbo", "portuguese": "disse, contou (passado de 'tell')" },
+            { "english": "truth", "info": "subst.", "portuguese": "verdade" },
+            { "english": "two", "info": "num.", "portuguese": "dois" }
+        ],
+        "U": [
+            { "english": "under", "info": "prep.", "portuguese": "debaixo de, sob" },
+            { "english": "until", "info": "conj./prep.", "portuguese": "até, até que" },
+            { "english": "unto", "info": "prep.", "portuguese": "para (arcaico)" },
+            { "english": "up", "info": "adv./prep.", "portuguese": "para cima" },
+            { "english": "upon", "info": "prep.", "portuguese": "sobre, em cima de" },
+            { "english": "us", "info": "pron.", "portuguese": "nós, a nós" },
+            { "english": "use", "info": "verbo/subst.", "portuguese": "usar; uso" }
+        ],
+        "V": [
+            { "english": "very", "info": "adv.", "portuguese": "muito" },
+            { "english": "voice", "info": "subst.", "portuguese": "voz" }
+        ],
+        "W": [
+            { "english": "walk", "info": "verbo", "portuguese": "andar, caminhar" },
+            { "english": "was", "info": "verbo", "portuguese": "era, estava" },
+            { "english": "water", "info": "subst.", "portuguese": "água" },
+            { "english": "way", "info": "subst.", "portuguese": "caminho, maneira, jeito" },
+            { "english": "we", "info": "pron.", "portuguese": "nós" },
+            { "english": "well", "info": "adv.", "portuguese": "bem" },
+            { "english": "went", "info": "verbo", "portuguese": "foi (passado de 'go')" },
+            { "english": "were", "info": "verbo", "portuguese": "eram, estavam" },
+            { "english": "what", "info": "pron.", "portuguese": "o que, que, qual" },
+            { "english": "when", "info": "adv./conj.", "portuguese": "quando" },
+            { "english": "where", "info": "adv./conj.", "portuguese": "onde" },
+            { "english": "which", "info": "pron.", "portuguese": "que, o qual" },
+            { "english": "who", "info": "pron.", "portuguese": "quem" },
+            { "english": "whole", "info": "adj.", "portuguese": "todo, inteiro" },
+            { "english": "whom", "info": "pron.", "portuguese": "a quem" },
+            { "english": "whose", "info": "pron.", "portuguese": "cujo, cuja" },
+            { "english": "why", "info": "adv.", "portuguese": "por que" },
+            { "english": "will", "info": "verbo modal", "portuguese": "(indica futuro)" },
+            { "english": "with", "info": "prep.", "portuguese": "com" },
+            { "english": "within", "info": "prep.", "portuguese": "dentro de" },
+            { "english": "without", "info": "prep.", "portuguese": "sem" },
+            { "english": "woman", "info": "subst.", "portuguese": "mulher" },
+            { "english": "word", "info": "subst.", "portuguese": "palavra" },
+            { "english": "work", "info": "subst./verbo", "portuguese": "trabalho, obra; trabalhar" },
+            { "english": "world", "info": "subst.", "portuguese": "mundo" },
+            { "english": "worship", "info": "subst./verbo", "portuguese": "adoração; adorar" },
+            { "english": "would", "info": "verbo modal", "portuguese": "(indica condicional)" },
+            { "english": "wrath", "info": "subst.", "portuguese": "ira, fúria" },
+            { "english": "write", "info": "verbo", "portuguese": "escrever" }
+        ],
+        "Y": [
+            { "english": "year", "info": "subst.", "portuguese": "ano" },
+            { "english": "yes", "info": "adv.", "portuguese": "sim" },
+            { "english": "yet", "info": "adv./conj.", "portuguese": "ainda, contudo" },
+            { "english": "you", "info": "pron.", "portuguese": "você, tu, vós" },
+            { "english": "your", "info": "adj.", "portuguese": "teu, tua, seu, sua, vosso" }
+        ]
+    }
+  }
+}
