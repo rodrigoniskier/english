@@ -1,0 +1,65 @@
+{
+  "courseTitle": "Inglês Instrumental em Teologia Reformada",
+  "courseDescription": "Um curso online para autodidatas, focado no desenvolvimento da habilidade de leitura e compreensão de textos teológicos reformados em inglês.",
+  "modules": [
+    {
+      "moduleId": "M_Intro_01",
+      "moduleTitle": "Fundamentos: Alfabeto, Pronúncia e Números",
+      "learningObjectives": [
+        "Reconhecer e nomear as 26 letras do alfabeto inglês.",
+        "Compreender dicas básicas de pronúncia para as vogais e consoantes mais comuns.",
+        "Aprender a contar usando os números cardinais (one, two, three...).",
+        "Aprender a usar os números ordinais (first, second, third...)."
+      ],
+      "content": {
+        "html": "<div><h1>Módulo Introdutório 1: Alfabeto, Pronúncia e Números</h1><p>Bem-vindo ao início da sua jornada no inglês! Antes de lermos os grandes teólogos, precisamos construir uma base sólida. Este módulo aborda os elementos mais fundamentais: as letras e os números.</p><h2>1. O Alfabeto (The Alphabet)</h2><p>O alfabeto inglês tem 26 letras. A pronúncia de cada letra é a chave para soletrar palavras e usar dicionários.</p><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: var(--color-primary); color: white;'><th style='padding: 1rem; border: 1px solid #ddd;'>Letra</th><th style='padding: 1rem; border: 1px solid #ddd;'>Nome (Pronúncia Aproximada)</th></tr></thead><tbody><tr><td>A a</td><td>ei</td></tr><tr><td>B b</td><td>bi</td></tr><tr><td>C c</td><td>ci</td></tr><tr><td>D d</td><td>di</td></tr><tr><td>E e</td><td>i</td></tr><tr><td>F f</td><td>éf</td></tr><tr><td>G g</td><td>dgi</td></tr><tr><td>H h</td><td>eitch</td></tr><tr><td>I i</td><td>ai</td></tr><tr><td>J j</td><td>djei</td></tr><tr><td>K k</td><td>kei</td></tr><tr><td>L l</td><td>él</td></tr><tr><td>M m</td><td>ém</td></tr><tr><td>N n</td><td>én</td></tr><tr><td>O o</td><td>ou</td></tr><tr><td>P p</td><td>pi</td></tr><tr><td>Q q</td><td>kiu</td></tr><tr><td>R r</td><td>ar</td></tr><tr><td>S s</td><td>és</td></tr><tr><td>T t</td><td>ti</td></tr><tr><td>U u</td><td>iu</td></tr><tr><td>V v</td><td>vi</td></tr><tr><td>W w</td><td>dâbliu</td></tr><tr><td>X x</td><td>écs</td></tr><tr><td>Y y</td><td>uai</td></tr><tr><td>Z z</td><td>zi (EUA) / zéd (UK)</td></tr></tbody></table><h2>2. Dicas de Pronúncia</h2><ul><li><strong>Vogais Longas e Curtas:</strong> A pronúncia das vogais em inglês pode variar muito. Por exemplo, o 'a' em 'cat' (gato) é curto, enquanto em 'late' (tarde) é longo (som de 'ei').</li><li><strong>O som do 'TH':</strong> Inglês tem dois sons para o 'th' que não existem em português. Para pronunciá-los, coloque a ponta da língua entre os dentes e assopre. Exemplos: <strong>th</strong>ink (pensar), <strong>th</strong>at (aquele).</li><li><strong>O 'R' Americano:</strong> É um som enrolado, com a língua indo para trás na boca. Diferente do 'r' em português. Ex: ca<strong>r</strong> (carro), <strong>r</strong>ead (ler).</li></ul><hr><h2>3. Números Cardinais (Cardinal Numbers)</h2><p>Usados para contar.</p><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: #28a745; color: white;'><th style='padding: 1rem; border: 1px solid #ddd;'>Número</th><th style='padding: 1rem; border: 1px solid #ddd;'>Inglês</th><th style='padding: 1rem; border: 1px solid #ddd;'>Número</th><th style='padding: 1rem; border: 1px solid #ddd;'>Inglês</th></tr></thead><tbody><tr><td>1</td><td>one</td><td>11</td><td>eleven</td></tr><tr><td>2</td><td>two</td><td>12</td><td>twelve</td></tr><tr><td>3</td><td>three</td><td>13</td><td>thirteen</td></tr><tr><td>4</td><td>four</td><td>20</td><td>twenty</td></tr><tr><td>5</td><td>five</td><td>30</td><td>thirty</td></tr><tr><td>6</td><td>six</td><td>40</td><td>forty</td></tr><tr><td>7.</td><td>seven</td><td>50</td><td>fifty</td></tr><tr><td>8</td><td>eight</td><td>100</td><td>one hundred</td></tr><tr><td>9</td><td>nine</td><td>1,000</td><td>one thousand</td></tr><tr><td>10</td><td>ten</td><td>1,000,000</td><td>one million</td></tr></tbody></table><h2>4. Números Ordinais (Ordinal Numbers)</h2><p>Usados para indicar ordem ou posição (primeiro, segundo, etc.).</p><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: #ffc107; color: #212529;'><th style='padding: 1rem; border: 1px solid #ddd;'>Número</th><th style='padding: 1rem; border: 1px solid #ddd;'>Inglês (Forma Curta)</th></tr></thead><tbody><tr><td>1º</td><td>first (1st)</td></tr><tr><td>2º</td><td>second (2nd)</td></tr><tr><td>3º</td><td>third (3rd)</td></tr><tr><td>4º</td><td>fourth (4th)</td></tr><tr><td>5º</td><td>fifth (5th)</td></tr><tr><td>21º</td><td>twenty-first (21st)</td></tr></tbody></table></div>"
+      },
+      "flashcards": [
+        { "front": "A, B, C", "back": "(ei), (bi), (ci)" },
+        { "front": "H", "back": "eitch" },
+        { "front": "W", "back": "dâbliu" },
+        { "front": "Y", "back": "uai" },
+        { "front": "1", "back": "one" },
+        { "front": "2", "back": "two" },
+        { "front": "3", "back": "three" },
+        { "front": "8", "back": "eight" },
+        { "front": "11", "back": "eleven" },
+        { "front": "12", "back": "twelve" },
+        { "front": "20", "back": "twenty" },
+        { "front": "1st", "back": "first (primeiro)" },
+        { "front": "2nd", "back": "second (segundo)" },
+        { "front": "3rd", "back": "third (terceiro)" }
+      ],
+      "exercises": [
+        {
+          "question": "Como se soletra a letra 'H' em inglês?",
+          "options": ["aga", "eitch", "ash", "rá"],
+          "correct": 1,
+          "difficulty": "easy",
+          "explanation": "A pronúncia do nome da letra H é 'eitch'."
+        },
+        {
+          "question": "Qual é o número cardinal para '12'?",
+          "options": ["ten-two", "twelve", "twenty", "eleven"],
+          "correct": 1,
+          "difficulty": "easy",
+          "explanation": "O número 12 em inglês é 'twelve'."
+        },
+        {
+          "question": "Como se escreve 'terceiro' na sua forma curta em inglês?",
+          "options": ["3th", "3st", "3rd", "3nd"],
+          "correct": 2,
+          "difficulty": "medium",
+          "explanation": "Os números ordinais 1, 2 e 3 são exceções: 1st (first), 2nd (second), 3rd (third). Os outros geralmente usam 'th'."
+        },
+        {
+          "question": "Qual é o número cardinal para '40'?",
+          "options": ["fourteen", "fiveteen", "fourty", "forty"],
+          "correct": 3,
+          "difficulty": "hard",
+          "explanation": "A escrita correta é 'forty', sem o 'u' da palavra 'four'. Este é um erro de ortografia comum."
+        }
+      ]
+    }
+  ]
+}
