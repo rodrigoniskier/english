@@ -1,0 +1,147 @@
+{
+  "lexiconTitle": "Glossário Completo do Curso",
+  "alphabet": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "L", "M", "O", "P", "R", "S", "T", "U", "V", "W"],
+  "wordsByLetter": {
+    "A": [
+      { "english": "Achievement", "portuguese": "Conquista, realização (n.)" },
+      { "english": "Actually", "portuguese": "Na verdade, de fato. (Falso Cognato)" },
+      { "english": "Although", "portuguese": "Embora, apesar de (Conector de Contraste/Concessão)" },
+      { "english": "Argument", "portuguese": "Argumento, debate (n.)" },
+      { "english": "Atonement", "portuguese": "Expiação (n.)" },
+      { "english": "Attempt", "portuguese": "Tentativa (n.)" },
+      { "english": "Attribute", "portuguese": "Atributo, característica (n.)" }
+    ],
+    "B": [
+      { "english": "Being", "portuguese": "Ser, essência (n.)" }
+    ],
+    "C": [
+      { "english": "Calling", "portuguese": "Chamado, Vocação (n.)" },
+      { "english": "Can / Could", "portuguese": "Modais de POSSIBILIDADE ou HABILIDADE." },
+      { "english": "Ceased", "portuguese": "Cessou, parou (v.)" },
+      { "english": "Commitment", "portuguese": "Compromisso, dedicação (n.)" },
+      { "english": "To commit unto writing", "portuguese": "Confiar à escrita, registrar por escrito." },
+      { "english": "Communicable Attributes", "portuguese": "Atributos que Deus compartilha com a criação (ex: amor, justiça)." },
+      { "english": "Comprehensive", "portuguese": "Abrangente, completo. (Falso Cognato)" },
+      { "english": "Conditional Clause", "portuguese": "Oração Condicional ('Se... então...')" },
+      { "english": "Confessional Language", "portuguese": "Linguagem precisa e lógica de confissões de fé." },
+      { "english": "Consequently", "portuguese": "Consequentemente (Conector de Resultado)" },
+      { "english": "Covenant", "back": "Aliança, Pacto (n.)" }
+    ],
+    "D": [
+      { "english": "Deceit", "back": "Engano, fraude, trapaça (n.)" },
+      { "english": "To delight in", "back": "Deleitar-se em, ter grande prazer em (v.)" },
+      { "english": "To deprive", "back": "Privar, despojar, tirar algo de alguém (v.)" },
+      { "english": "Distinctively", "back": "Distintamente, caracteristicamente (adv.)" },
+      { "english": "To distinguish", "back": "Distinguir, diferenciar (v.)" },
+      { "english": "Doctrine", "back": "Doutrina (n.)" }
+    ],
+    "E": [
+      { "english": "Election", "back": "Eleição (n.)" },
+      { "english": "To enjoy", "back": "Desfrutar, ter prazer em." },
+      { "english": "Eternity", "back": "Eternidade (n.)" },
+      { "english": "Eventually", "back": "Finalmente, com o tempo. (Falso Cognato)" },
+      { "english": "Exegesis", "back": "O processo de extrair o significado de um texto." }
+    ],
+    "F": [
+      { "english": "Faith", "back": "Fé (n.)" },
+      { "english": "Failure", "back": "Fracasso (n.)" },
+      { "english": "False Friend", "back": "Falso Cognato: palavra que parece mas não tem o mesmo significado." },
+      { "english": "Former ways", "back": "Maneiras anteriores." },
+      { "english": "Furthermore / Moreover", "back": "Além disso, ademais (Conector de Adição)" }
+    ],
+    "G": [
+      { "english": "Gist", "back": "A ideia geral ou o ponto principal de um texto." },
+      { "english": "To Glorify", "back": "Glorificar (v.)" },
+      { "english": "Gospel", "back": "Evangelho (n.)" },
+      { "english": "Grace", "back": "Graça (n.)" }
+    ],
+    "H": [
+      { "english": "Hence", "back": "Daí, por isso (Conector de Inferência)" },
+      { "english": "However", "back": "No entanto, contudo (Conector de Contraste)" }
+    ],
+    "I": [
+      { "english": "Imputation", "back": "Imputação (n.)" },
+      { "english": "In accordance with", "back": "De acordo com." },
+      { "english": "In light of", "back": "À luz de." },
+      { "english": "Incommunicable Attributes", "back": "Atributos que Deus NÃO compartilha com a criação." },
+      { "english": "Independence", "back": "Independência, assidade (n.)" }
+    ],
+    "J": [
+      { "english": "J. Gresham Machen", "back": "Teólogo de Princeton, autor de 'Cristianismo e Liberalismo'." },
+      { "english": "John Owen", "back": "Importante teólogo puritano." },
+      { "english": "Justice", "back": "Justiça (n.)" },
+      { "english": "To Justify", "back": "Justificar (v.)" }
+    ],
+    "L": [
+      { "english": "Law", "back": "Lei (n.)" },
+      { "english": "Likewise", "back": "Da mesma forma (Conector de Comparação/Adição)" }
+    ],
+    "M": [
+      { "english": "May / Might", "back": "Modais de BAIXA CERTEZA: expressam possibilidade." },
+      { "english": "Means of Grace", "back": "Meios de Graça." },
+      { "english": "Mercy", "back": "Misericórdia (n.)" },
+      { "english": "Mortification / To mortify", "back": "Mortificação / O ato de fazer o pecado morrer." },
+      { "english": "Must / Shall", "back": "Modais de ALTA CERTEZA: expressam necessidade ou obrigação forte." }
+    ],
+    "N": [
+      { "english": "Nevertheless / Nonetheless", "back": "Não obstante, mesmo assim (Conector de Contraste Forte)" }
+    ],
+    "O": [
+      { "english": "Omnipresence", "back": "Onipresença (n.)" }
+    ],
+    "P": [
+      { "english": "Passive Voice", "back": "Foco na ação ou no receptor (to be + Particípio Passado)." },
+      { "english": "Perfections", "back": "Perfeições (n.)" },
+      { "english": "Power", "back": "Poder (n.)" },
+      { "english": "Prepositional Phrase", "back": "Grupo de palavras que adiciona detalhes (in, for, by...)." },
+      { "english": "Present Perfect Tense", "back": "Ação passada com relevância no presente (have + particípio)." },
+      { "english": "Pretend", "back": "Fingir. (Falso Cognato)" },
+      { "english": "To propagate", "back": "Propagar, divulgar (v.)" },
+      { "english": "Providence", "back": "Providência (n.)" },
+      { "english": "The Puritans", "back": "Teólogos e pastores (séc. XVI-XVII)." }
+    ],
+    "R": [
+      { "english": "Redemption", "back": "Redenção (n.)" },
+      { "english": "Relative Clause", "back": "Oração Relativa: 'mini-frase' que funciona como adjetivo." },
+      { "english": "Relative Pronouns", "back": "who, whom, whose, which, that." },
+      { "english": "To relinquish", "back": "Renunciar, abandonar (v.)" },
+      { "english": "To rephrase", "back": "Reescrever ou dizer algo com outras palavras." },
+      { "english": "Righteousness", "back": "Justiça, Retidão (n.)" }
+    ],
+    "S": [
+      { "english": "Salvation", "back": "Salvação (n.)" },
+      { "english": "To Sanctify", "back": "Santificar (v.)" },
+      { "english": "Scandalous", "back": "Escandaloso, vergonhoso (adj.)" },
+      { "english": "Scripture", "back": "Escritura (n.)" },
+      { "english": "Self-glorification", "back": "Auto-glorificação (n.)" },
+      { "english": "To share", "back": "Compartilhar (v.)" },
+      { "english": "Should / Ought to", "back": "Modais de CERTEZA MÉDIA: expressam recomendação." },
+      { "english": "Simple Past Tense", "back": "Uso: Eventos históricos concluídos." },
+      { "english": "Simple Present Tense", "back": "Uso: Verdades gerais e atemporais." },
+      { "english": "Sin", "back": "Pecado (n.)" },
+      { "english": "Soul", "back": "Alma (n.)" },
+      { "english": "Sovereignty", "back": "Soberania (n.)" },
+      { "english": "Sufficient", "back": "Suficiente (adj.)" },
+      { "english": "Supposed", "back": "Suposto, pretenso (adj.)" },
+      { "english": "Supreme worth", "back": "Valor supremo." },
+      { "english": "Systematic Theology", "back": "Gênero que organiza as doutrinas de forma lógica." }
+    ],
+    "T": [
+      { "english": "Therefore", "back": "Portanto, por isso (Conector de Conclusão)" },
+      { "english": "To treasure", "back": "Atesourar, valorizar imensamente (v.)" },
+      { "english": "Thus", "back": "Assim, desta forma (Conector de Conclusão/Resultado)" }
+    ],
+    "U": [
+      { "english": "Unchangeableness", "back": "Imutabilidade (n.)" },
+      { "english": "Unexcusable", "back": "Indesculpável (adj.)" },
+      { "english": "Unto", "back": "Forma arcaica de 'to' ou 'for' (para)." }
+    ],
+    "V": [
+      { "english": "Vigor", "back": "Vigor, força, vitalidade (n.)" }
+    ],
+    "W": [
+      { "english": "Whereas", "back": "Enquanto que (Conector de Contraste)" },
+      { "english": "Worship", "back": "Adoração (n.); Adorar (v.)" }
+    ]
+  }
+}
