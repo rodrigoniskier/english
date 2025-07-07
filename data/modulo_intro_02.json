@@ -1,0 +1,53 @@
+{
+  "courseTitle": "Inglês Instrumental em Teologia Reformada",
+  "courseDescription": "Um curso online para autodidatas, focado no desenvolvimento da habilidade de leitura e compreensão de textos teológicos reformados em inglês.",
+  "modules": [
+    {
+      "moduleId": "M_Intro_02",
+      "moduleTitle": "Fundamentos: Verbos Essenciais, Pronomes e Artigos",
+      "learningObjectives": [
+        "Aprender a conjugar e usar os verbos 'to be', 'to have' e 'to do' no presente.",
+        "Identificar e usar os pronomes pessoais (I, you, he, she, it, we, they).",
+        "Diferenciar e usar corretamente os artigos indefinidos (a/an) e o artigo definido (the)."
+      ],
+      "content": {
+        "html": "<div><h1>Módulo Introdutório 2: Verbos Essenciais, Pronomes e Artigos</h1><p>Neste módulo, vamos aprender os três 'tijolos' fundamentais para construir frases em inglês: os pronomes (quem?), os verbos essenciais (a ação ou estado) e os artigos (que acompanham os substantivos).</p><h2>1. Verbos Essenciais (Essential Verbs)</h2><h3>A. To Be (Ser/Estar)</h3><p>O verbo mais importante e irregular do inglês. É usado para descrever estados, identidades e localizações.</p><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: var(--color-primary); color: white;'><th style='padding: 1rem; border: 1px solid #ddd;'>Pronome</th><th style='padding: 1rem; border: 1px solid #ddd;'>Forma do 'To Be'</th><th style='padding: 1rem; border: 1px solid #ddd;'>Exemplo</th></tr></thead><tbody><tr><td>I</td><td><strong>am</strong></td><td>I <strong>am</strong> a student. (Eu sou um estudante)</td></tr><tr><td>You</td><td><strong>are</strong></td><td>You <strong>are</strong> here. (Você está aqui)</td></tr><tr><td>He / She / It</td><td><strong>is</strong></td><td>He <strong>is</strong> a pastor. (Ele é um pastor)</td></tr><tr><td>We</td><td><strong>are</strong></td><td>We <strong>are</strong> ready. (Nós estamos prontos)</td></tr><tr><td>You (plural)</td><td><strong>are</strong></td><td>You <strong>are</strong> friends. (Vocês são amigos)</td></tr><tr><td>They</td><td><strong>are</strong></td><td>They <strong>are</strong> in the church. (Eles estão na igreja)</td></tr></tbody></table><h3>B. To Have (Ter/Possuir)</h3><p>Usado para indicar posse.</p><ul><li>Para <strong>I, you, we, they</strong>: use <strong>have</strong>. (Ex: <em>They have a book.</em>)</li><li>Para <strong>he, she, it</strong>: use <strong>has</strong>. (Ex: <em>She has a question.</em>)</li></ul><h3>C. To Do (Fazer)</h3><p>Além de seu significado principal ('fazer'), 'to do' é um <strong>verbo auxiliar</strong> crucial para formar perguntas e negativas no presente simples (veremos isso no próximo módulo).</p><ul><li><strong>Como verbo principal:</strong> <em>We <strong>do</strong> our work.</em> (Nós fazemos nosso trabalho).</li><li><strong>Como auxiliar:</strong> <em><strong>Do</strong> you understand?</em> (Você entende?) / <em>I <strong>do not</strong> understand.</em> (Eu não entendo).</li></ul><hr><h2>2. Pronomes Pessoais (Personal Pronouns)</h2><p>São as palavras que substituem os nomes e funcionam como o sujeito da frase.</p><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: #28a745; color: white;'><th style='padding: 1rem; border: 1px solid #ddd;'>Inglês</th><th style='padding: 1rem; border: 1px solid #ddd;'>Português</th></tr></thead><tbody><tr><td><strong>I</strong></td><td>Eu</td></tr><tr><td><strong>You</strong></td><td>Você, Tu (singular ou plural)</td></tr><tr><td><strong>He</strong></td><td>Ele</td></tr><tr><td><strong>She</strong></td><td>Ela</td></tr><tr><td><strong>It</strong></td><td>Ele/Ela (para objetos, animais, ideias)</td></tr><tr><td><strong>We</strong></td><td>Nós</td></tr><tr><td><strong>They</strong></td><td>Eles/Elas</td></tr></tbody></table><hr><h2>3. Artigos (Articles)</h2><p>Artigos vêm antes dos substantivos.</p><h3>A. Artigos Indefinidos: a / an (um / uma)</h3><p>Usados para falar de algo não específico. A escolha depende do <strong>som</strong> da palavra seguinte.</p><ul><li>Use <strong>a</strong> antes de um som de consoante: <em>a <strong>b</strong>ook, a <strong>c</strong>hurch, a <strong>u</strong>niversity</em> (o 'u' de university tem som de 'iu', que é um som consonantal).</li><li>Use <strong>an</strong> antes de um som de vogal: <em>an <strong>a</strong>pple, an <strong>e</strong>gg, an <strong>h</strong>our</em> (o 'h' de hour é mudo).</li></ul><h3>B. Artigo Definido: the (o, a, os, as)</h3><p>Usado para falar de algo específico, que já foi mencionado ou é único.</p><ul><li><em>I see <strong>a</strong> car. <strong>The</strong> car is blue.</em> (Na primeira vez é 'um carro' qualquer. Na segunda, é 'o carro' específico que eu vi).</li><li><em><strong>The</strong> sun is hot.</em> (O sol é único).</li></ul></div>"
+      },
+      "flashcards": [
+        { "front": "I am / You are / He is", "back": "Eu sou/estou / Você é/está / Ele é/está" },
+        { "front": "We are / They are", "back": "Nós somos/estamos / Eles são/estão" },
+        { "front": "to have", "back": "ter (I have, he has)" },
+        { "front": "to do", "back": "fazer (I do, she does)" },
+        { "front": "I, you, he, she, it", "back": "Eu, você, ele, ela, ele/ela (coisas)" },
+        { "front": "we, you, they", "back": "Nós, vocês, eles/elas" },
+        { "front": "a / an", "back": "Artigo Indefinido (um, uma). 'An' é usado antes de som de vogal." },
+        { "front": "the", "back": "Artigo Definido (o, a, os, as)." }
+      ],
+      "exercises": [
+        {
+          "question": "Complete a frase: She ___ a good student.",
+          "options": ["am", "are", "is", "be"],
+          "correct": 2,
+          "difficulty": "easy",
+          "explanation": "Para 'he', 'she' e 'it', a forma correta do verbo 'to be' no presente é 'is'."
+        },
+        {
+          "question": "Complete a frase: We ___ two books.",
+          "options": ["has", "is", "do", "have"],
+          "correct": 3,
+          "difficulty": "easy",
+          "explanation": "Para 'I', 'you', 'we' e 'they', a forma correta do verbo 'to have' no presente é 'have'."
+        },
+        {
+          "question": "Qual pronome substitui 'The woman'?",
+          "options": ["He", "It", "They", "She"],
+          "correct": 3,
+          "difficulty": "easy",
+          "explanation": "'She' é o pronome pessoal para 'ela' (a mulher)."
+        },
+        { "question": "Qual artigo completa corretamente a frase: 'I need ___ hour to finish.'?", "options": ["a", "an", "the", "sem artigo"], "correct": 1, "difficulty": "medium", "explanation": "A palavra 'hour' começa com um 'h' mudo, então seu som inicial é de vogal ('our'). Portanto, usamos 'an'." },
+        { "question": "Na frase 'The dog is in the garden', por que usamos 'the' e não 'a'?", "options": ["Porque 'dog' começa com 'd'", "Porque estamos falando de um cachorro específico, conhecido pelo ouvinte", "Porque 'garden' é um lugar", "Tanto faz, 'a' também estaria correto"], "correct": 1, "difficulty": "hard", "explanation": "O artigo definido 'the' é usado para se referir a um substantivo específico, que tanto o falante quanto o ouvinte sabem qual é." }
+      ]
+    }
+  ]
+}
