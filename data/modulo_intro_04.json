@@ -1,0 +1,70 @@
+{
+  "courseTitle": "Inglês Instrumental em Teologia Reformada",
+  "courseDescription": "Um curso online para autodidatas, focado no desenvolvimento da habilidade de leitura e compreensão de textos teológicos reformados em inglês.",
+  "modules": [
+    {
+      "moduleId": "M_Intro_04",
+      "moduleTitle": "Fundamentos: Preposições, Adjetivos e Modais Básicos",
+      "learningObjectives": [
+        "Aprender e usar preposições de lugar comuns (in, on, at, under).",
+        "Usar adjetivos básicos para descrever substantivos.",
+        "Aprender a regra geral para formar o plural dos substantivos (adicionando -s).",
+        "Fazer perguntas e respostas simples.",
+        "Compreender e usar os verbos modais básicos 'can', 'must' e 'should'."
+      ],
+      "content": {
+        "html": "<div><h1>Módulo Introdutório 4: Preposições, Adjetivos e Modais Básicos</h1><p>Neste módulo, vamos enriquecer nossas frases. Aprenderemos a descrever onde as coisas estão (preposições), como elas são (adjetivos), a falar sobre mais de uma coisa (plural) e a expressar capacidade e obrigação (verbais modais).</p><h2>1. Preposições Básicas de Lugar (Basic Prepositions of Place)</h2><p>Preposições nos dizem a relação de um substantivo com outro, especialmente em termos de localização.</p><ul><li><strong>In:</strong> Dentro de. <em>The book is <strong>in</strong> the box.</em> (O livro está na caixa).</li><li><strong>On:</strong> Sobre, em cima de (com contato). <em>The Bible is <strong>on</strong> the table.</em> (A Bíblia está na mesa).</li><li><strong>At:</strong> Em (para locais específicos ou eventos). <em>We are <strong>at</strong> the church.</em> (Nós estamos na igreja).</li><li><strong>Under:</strong> Embaixo de. <em>The cat is <strong>under</strong> the chair.</em> (O gato está embaixo da cadeira).</li></ul><h2>2. Adjetivos Básicos (Basic Adjectives)</h2><p>Adjetivos descrevem substantivos. Em inglês, eles quase sempre vêm <strong>antes</strong> do substantivo que modificam.</p><p>Ex: <em>a <strong>good</strong> book</em> (um bom livro), <em>a <strong>big</strong> house</em> (uma casa grande), <em>a <strong>red</strong> car</em> (um carro vermelho).</p><p><strong>Importante:</strong> Adjetivos em inglês não mudam para o plural. <em>One <strong>good</strong> book.</em> / <em>Two <strong>good</strong> books.</em> (O adjetivo 'good' não muda).</p><h2>3. Plural dos Substantivos (Plural of Nouns)</h2><p>A regra geral para formar o plural da maioria dos substantivos é simplesmente adicionar <strong>-s</strong> no final.</p><ul><li>book → book<strong>s</strong></li><li>table → table<strong>s</strong></li><li>pastor → pastor<strong>s</strong></li></ul><p><strong>Exceções comuns:</strong></p><ul><li>Palavras terminadas em -s, -sh, -ch, -x, -z: adiciona-se <strong>-es</strong>. (box → boxes, church → churches).</li><li>Palavras terminadas em consoante + y: troca-se o 'y' por <strong>-ies</strong>. (study → studies, city → cities).</li><li>Alguns plurais irregulares: man → men, woman → women, child → children, person → people.</li></ul><hr><h2>4. Perguntas e Respostas Simples (Simple Questions and Answers)</h2><p>Podemos usar o verbo 'to be' e os auxiliares 'do/does' para fazer perguntas simples de 'sim' ou 'não'.</p><ul><li><em><strong>Is</strong> he a teacher?</em> (Ele é um professor?) → <em>Yes, he is. / No, he is not (isn't).</em></li><li><em><strong>Do</strong> you have a car?</em> (Você tem um carro?) → <em>Yes, I do. / No, I do not (don't).</em></li></ul><hr><h2>5. Verbos Modais Básicos (Basic Modal Verbs)</h2><p>Verbos modais vêm antes do verbo principal e expressam uma ideia específica. O verbo principal depois de um modal fica sempre na sua forma base (sem 'to' e sem '-s').</p><ul><li><strong>Can:</strong> Habilidade, capacidade (poder, conseguir). <em>I <strong>can</strong> read this book.</em> (Eu consigo ler este livro). <em>He <strong>can</strong> speak English.</em></li><li><strong>Must:</strong> Obrigação forte, necessidade (dever, ter que). <em>You <strong>must</strong> study for the test.</em> (Você deve estudar para a prova).</li><li><strong>Should:</strong> Conselho, recomendação (deveria). <em>You <strong>should</strong> read the Bible every day.</em> (Você deveria ler a Bíblia todos os dias).</li></ul></div>"
+      },
+      "flashcards": [
+        { "front": "in", "back": "Dentro de" },
+        { "front": "on", "back": "Sobre, em cima de" },
+        { "front": "at", "back": "Em (local específico)" },
+        { "front": "under", "back": "Embaixo de" },
+        { "front": "Posição do Adjetivo", "back": "Antes do substantivo (a good book)." },
+        { "front": "Plural Geral", "back": "Adicionar -s (books, cars)." },
+        { "front": "Plural de 'church'", "back": "churches (adiciona-se -es)." },
+        { "front": "Plural de 'man'", "back": "men (irregular)." },
+        { "front": "can", "back": "Poder, conseguir (habilidade)." },
+        { "front": "must", "back": "Dever, ter que (obrigação forte)." },
+        { "front": "should", "back": "Deveria (conselho)." }
+      ],
+      "exercises": [
+        {
+          "question": "Qual preposição completa a frase: 'The pen is ___ the desk.'?",
+          "options": ["in", "on", "at", "under"],
+          "correct": 1,
+          "difficulty": "easy",
+          "explanation": "'On' é usado para superfícies. A caneta está em cima da mesa."
+        },
+        {
+          "question": "Qual é a ordem correta das palavras para 'um carro azul'?",
+          "options": ["A car blue", "Blue a car", "A blue car", "Car a blue"],
+          "correct": 2,
+          "difficulty": "easy",
+          "explanation": "Em inglês, o adjetivo (blue) vem antes do substantivo (car)."
+        },
+        {
+          "question": "Qual é o plural de 'city'?",
+          "options": ["citys", "cityes", "citis", "cities"],
+          "correct": 3,
+          "difficulty": "medium",
+          "explanation": "Para palavras terminadas em consoante + 'y', trocamos o 'y' por '-ies'."
+        },
+        {
+          "question": "Qual verbo modal expressa uma recomendação ou conselho?",
+          "options": ["can", "must", "should", "do"],
+          "correct": 2,
+          "difficulty": "medium",
+          "explanation": "'Should' é usado para dar conselhos ou fazer recomendações (você deveria...)."
+        },
+        {
+          "question": "Complete a frase: 'He ___ speak two languages.'",
+          "options": ["can", "cans", "can to", "is can"],
+          "correct": 0,
+          "difficulty": "hard",
+          "explanation": "Verbos modais como 'can' não mudam para a terceira pessoa (sem '-s') e são seguidos pelo verbo na forma base, sem 'to'."
+        }
+      ]
+    }
+  ]
+}
