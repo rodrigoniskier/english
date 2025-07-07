@@ -1,0 +1,61 @@
+{
+  "courseTitle": "Inglês Instrumental em Teologia Reformada",
+  "courseDescription": "Um curso online para autodidatas, focado no desenvolvimento da habilidade de leitura e compreensão de textos teológicos reformados em inglês.",
+  "modules": [
+    {
+      "moduleId": "M_Intro_03",
+      "moduleTitle": "Fundamentos: O Presente Simples e Estruturas de Frases",
+      "learningObjectives": [
+        "Compreender o uso do Presente Simples para descrever rotinas, fatos e verdades gerais.",
+        "Aprender a regra do '-s' na terceira pessoa do singular (he, she, it).",
+        "Construir frases afirmativas.",
+        "Usar os auxiliares 'do' e 'does' para construir frases negativas (do not / does not).",
+        "Usar os auxiliares 'do' e 'does' para construir frases interrogativas."
+      ],
+      "content": {
+        "html": "<div><h1>Módulo Introdutório 3: O Presente Simples e Estruturas de Frases</h1><p>Agora que conhecemos os pronomes e os verbos básicos, vamos aprender a usá-los para construir frases completas. O <strong>Presente Simples (Simple Present)</strong> é o tempo verbal que usamos para falar sobre fatos, rotinas e verdades gerais – exatamente o tipo de linguagem que encontramos em textos doutrinários.</p><h2>1. Frases Afirmativas (Affirmative Sentences)</h2><p>A estrutura é simples: <strong>Sujeito + Verbo + Complemento</strong>.</p><p>Ex: <em>I read books.</em> (Eu leio livros.) / <em>We study theology.</em> (Nós estudamos teologia.)</p><h3>A Regra do '-s' na 3ª Pessoa do Singular</h3><p>Esta é a regra mais importante do Presente Simples. Quando o sujeito é <strong>he, she</strong> ou <strong>it</strong>, o verbo principal geralmente recebe um <strong>-s</strong> no final.</p><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: var(--color-primary); color: white;'><th style='padding: 1rem; border: 1px solid #ddd;'>Sujeito</th><th style='padding: 1rem; border: 1px solid #ddd;'>Frase</th></tr></thead><tbody><tr><td>I / You / We / They</td><td>work, study, read, have, go</td></tr><tr><td><strong>He / She / It</strong></td><td>work<strong>s</strong>, stud<strong>ies</strong>, read<strong>s</strong>, ha<strong>s</strong>, go<strong>es</strong></td></tr></tbody></table><p>Ex: <em><strong>He reads</strong> the Bible every day.</em> (Ele lê a Bíblia todos os dias.) / <em><strong>She has</strong> a question.</em> (Ela tem uma pergunta.)</p><hr><h2>2. Frases Negativas (Negative Sentences)</h2><p>Para fazer uma negação, <strong>não</strong> usamos 'not' diretamente com o verbo principal. Precisamos do verbo auxiliar <strong>'to do'</strong>.</p><p>A estrutura é: <strong>Sujeito + do/does + not + Verbo Principal (sem -s) + Complemento</strong>.</p><ul><li>Use <strong>do not (don't)</strong> para I, you, we, they.</li><li>Use <strong>does not (doesn't)</strong> para he, she, it.</li></ul><p><strong>Importante:</strong> Quando usamos 'does', o '-s' do verbo principal desaparece!</p><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: #28a745; color: white;'><th style='padding: 1rem; border: 1px solid #ddd;'>Afirmativa</th><th style='padding: 1rem; border: 1px solid #ddd;'>Negativa</th></tr></thead><tbody><tr><td>They have a book.</td><td>They <strong>do not</strong> have a book.</td></tr><tr><td>He work<strong>s</strong> here.</td><td>He <strong>does not work</strong> here. (O 's' saiu do 'work'!)</td></tr></tbody></table><hr><h2>3. Frases Interrogativas (Interrogative Sentences)</h2><p>Para fazer perguntas, também usamos o auxiliar <strong>'to do'</strong>, mas o colocamos no início da frase.</p><p>A estrutura é: <strong>Do/Does + Sujeito + Verbo Principal (sem -s) + Complemento?</strong></p><table style='width:100%; border-collapse: collapse; text-align: left;'><thead><tr style='background: #ffc107; color: #212529;'><th style='padding: 1rem; border: 1px solid #ddd;'>Afirmativa</th><th style='padding: 1rem; border: 1px solid #ddd;'>Interrogativa</th></tr></thead><tbody><tr><td>You study English.</td><td><strong>Do</strong> you study English?</td></tr><tr><td>She read<strong>s</strong> the book.</td><td><strong>Does</strong> she read the book? (O 's' saiu do 'read'!)</td></tr></tbody></table><p><strong>Exceção:</strong> O verbo 'to be' não usa auxiliares. Ele mesmo vai para o início da pergunta. Ex: <em><strong>Is</strong> he a pastor?</em> (Ele é um pastor?)</p></div>"
+      },
+      "flashcards": [
+        { "front": "Simple Present", "back": "Tempo verbal para fatos, rotinas e verdades gerais." },
+        { "front": "Regra do '-s'", "back": "No Presente Simples, verbos com sujeito HE, SHE, IT recebem um '-s'." },
+        { "front": "He works.", "back": "Ele trabalha." },
+        { "front": "They work.", "back": "Eles trabalham." },
+        { "front": "Auxiliar para Negativas e Perguntas", "back": "DO / DOES." },
+        { "front": "I do not understand.", "back": "Eu não entendo." },
+        { "front": "He does not understand.", "back": "Ele não entende." },
+        { "front": "Do you understand?", "back": "Você entende?" },
+        { "front": "Does he understand?", "back": "Ele entende?" }
+      ],
+      "exercises": [
+        {
+          "question": "Qual é a forma correta do verbo 'to read' para o sujeito 'He' no Presente Simples afirmativo?",
+          "options": ["read", "reads", "reading", "is read"],
+          "correct": 1,
+          "difficulty": "easy",
+          "explanation": "Na terceira pessoa do singular (he, she, it), o verbo no Presente Simples geralmente recebe um '-s'."
+        },
+        {
+          "question": "Como se forma a negativa da frase 'They study theology'?",
+          "options": ["They not study theology.", "They study not theology.", "They do not study theology.", "They does not study theology."],
+          "correct": 2,
+          "difficulty": "medium",
+          "explanation": "Para 'they', usamos o auxiliar 'do not' (ou don't) para formar a negativa."
+        },
+        {
+          "question": "Qual é a forma interrogativa correta da frase 'She has a book'?",
+          "options": ["Has she a book?", "Do she has a book?", "Does she has a book?", "Does she have a book?"],
+          "correct": 3,
+          "difficulty": "hard",
+          "explanation": "Para 'she', usamos o auxiliar 'does' no início. Quando 'does' é usado, o verbo principal volta para sua forma base, que é 'have', e não 'has'."
+        },
+        {
+          "question": "Complete a frase: 'A pastor ___ the Word of God.'",
+          "options": ["preach", "preaching", "preaches", "do preach"],
+          "correct": 2,
+          "difficulty": "medium",
+          "explanation": "O sujeito 'A pastor' (um pastor) é equivalente a 'he'. Portanto, o verbo 'preach' recebe '-es' (uma variação da regra do -s para verbos terminados em 'ch')."
+        }
+      ]
+    }
+  ]
+}
