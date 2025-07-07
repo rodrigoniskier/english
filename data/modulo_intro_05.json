@@ -1,0 +1,66 @@
+{
+  "courseTitle": "Inglês Instrumental em Teologia Reformada",
+  "courseDescription": "Um curso online para autodidatas, focado no desenvolvimento da habilidade de leitura e compreensão de textos teológicos reformados em inglês.",
+  "modules": [
+    {
+      "moduleId": "M_Intro_05",
+      "moduleTitle": "Fundamentos: Vocabulário Essencial do Dia a Dia",
+      "learningObjectives": [
+        "Aprender saudações e frases de apresentação pessoal.",
+        "Memorizar os dias da semana, meses do ano e cores.",
+        "Construir um vocabulário básico sobre família, casa, corpo e profissões.",
+        "Aprender palavras essenciais sobre comidas, bebidas, tempo e lugares."
+      ],
+      "content": {
+        "html": "<div><h1>Módulo Introdutório 5: Vocabulário Essencial do Dia a Dia</h1><p>Neste módulo final de nossa introdução, vamos focar em construir um repertório de palavras úteis. A gramática nos dá a estrutura, mas o vocabulário nos dá o que dizer. Organizamos as palavras por temas para facilitar a memorização.</p><h2>Saudações e Apresentações</h2><ul><li><strong>Hello / Hi:</strong> Olá / Oi</li><li><strong>Goodbye / Bye:</strong> Tchau, Adeus</li><li><strong>Good morning / afternoon / evening:</strong> Bom dia / Boa tarde / Boa noite</li><li><strong>How are you?</strong> Como você está?</li><li><strong>I am fine, thank you.</strong> Eu estou bem, obrigado.</li><li><strong>What is your name?</strong> Qual é o seu nome?</li><li><strong>My name is...:</strong> Meu nome é...</li><li><strong>Nice to meet you:</strong> Prazer em conhecê-lo.</li></ul><h2>Tempo e Datas</h2><table style='width:100%;'><tr><td style='width:50%; vertical-align: top;'><h4>Dias da Semana (Days of the Week)</h4><ul><li>Monday (Segunda-feira)</li><li>Tuesday (Terça-feira)</li><li>Wednesday (Quarta-feira)</li><li>Thursday (Quinta-feira)</li><li>Friday (Sexta-feira)</li><li>Saturday (Sábado)</li><li>Sunday (Domingo)</li></ul></td><td style='width:50%; vertical-align: top;'><h4>Meses do Ano (Months of the Year)</h4><ul><li>January (Janeiro)</li><li>February (Fevereiro)</li><li>March (Março)</li><li>April (Abril)</li><li>May (Maio)</li><li>June (Junho)</li><li>July (Julho)</li><li>August (Agosto)</li><li>September (Setembro)</li><li>October (Outubro)</li><li>November (Novembro)</li><li>December (Dezembro)</li></ul></td></tr></table><h2>Pessoas e Família</h2><ul><li><strong>Family:</strong> Família</li><li><strong>Father / Mother:</strong> Pai / Mãe</li><li><strong>Son / Daughter:</strong> Filho / Filha</li><li><strong>Brother / Sister:</strong> Irmão / Irmã</li><li><strong>Man / Woman / Child:</strong> Homem / Mulher / Criança</li><li><strong>Friend:</strong> Amigo(a)</li></ul><h2>Coisas e Lugares</h2><table style='width:100%;'><tr><td style='width:50%; vertical-align: top;'><h4>Casa (House)</h4><ul><li>House (casa)</li><li>Door (porta)</li><li>Window (janela)</li><li>Table (mesa)</li><li>Chair (cadeira)</li><li>Bed (cama)</li></ul></td><td style='width:50%; vertical-align: top;'><h4>Lugares (Places)</h4><ul><li>City (cidade)</li><li>School (escola)</li><li>Church (igreja)</li><li>Store (loja)</li><li>Hospital (hospital)</li><li>Park (parque)</li></ul></td></tr></table><h2>Comidas e Bebidas</h2><ul><li><strong>Food:</strong> Comida</li><li><strong>Water:</strong> Água</li><li><strong>Bread:</strong> Pão</li><li><strong>Milk:</strong> Leite</li><li><strong>Coffee:</strong> Café</li><li><strong>Fruit:</strong> Fruta</li><li><strong>Meat:</strong> Carne</li></ul><h2>Outras Categorias</h2><ul><li><strong>Cores:</strong> Red (vermelho), Green (verde), Blue (azul), Yellow (amarelo), Black (preto), White (branco).</li><li><strong>Partes do Corpo:</strong> Head (cabeça), Hand (mão), Arm (braço), Leg (perna), Foot (pé), Eye (olho), Mouth (boca).</li><li><strong>Profissões:</strong> Teacher (professor), Student (estudante), Doctor (médico), Pastor (pastor).</li></ul></div>"
+      },
+      "flashcards": [
+        { "front": "How are you?", "back": "Como você está?" },
+        { "front": "My name is...", "back": "Meu nome é..." },
+        { "front": "Monday", "back": "Segunda-feira" },
+        { "front": "Wednesday", "back": "Quarta-feira" },
+        { "front": "Sunday", "back": "Domingo" },
+        { "front": "January", "back": "Janeiro" },
+        { "front": "July", "back": "Julho" },
+        { "front": "December", "back": "Dezembro" },
+        { "front": "Father / Mother", "back": "Pai / Mãe" },
+        { "front": "Brother / Sister", "back": "Irmão / Irmã" },
+        { "front": "Church", "back": "Igreja" },
+        { "front": "Teacher / Student", "back": "Professor(a) / Estudante" },
+        { "front": "Water / Bread", "back": "Água / Pão" },
+        { "front": "Head / Hand / Foot", "back": "Cabeça / Mão / Pé" },
+        { "front": "Red, White, Blue", "back": "Vermelho, Branco, Azul" }
+      ],
+      "exercises": [
+        {
+          "question": "Como se diz 'Prazer em conhecê-lo' em inglês?",
+          "options": ["How are you?", "What is your name?", "Nice to meet you.", "My name is..."],
+          "correct": 2,
+          "difficulty": "easy",
+          "explanation": "'Nice to meet you' é a expressão padrão para 'Prazer em conhecê-lo'."
+        },
+        {
+          "question": "Qual palavra se refere a um membro da família?",
+          "options": ["Chair", "Teacher", "Daughter", "Water"],
+          "correct": 2,
+          "difficulty": "easy",
+          "explanation": "'Daughter' significa 'filha'."
+        },
+        {
+          "question": "Qual é o dia que vem depois de 'Tuesday'?",
+          "options": ["Monday", "Thursday", "Wednesday", "Friday"],
+          "correct": 2,
+          "difficulty": "medium",
+          "explanation": "A sequência é Tuesday (terça) e depois Wednesday (quarta)."
+        },
+        {
+          "question": "A palavra 'Store' pertence a qual categoria?",
+          "options": ["Família", "Comidas", "Partes do Corpo", "Lugares"],
+          "correct": 3,
+          "difficulty": "easy",
+          "explanation": "'Store' significa 'loja', que é um lugar na cidade."
+        }
+      ]
+    }
+  ]
+}
