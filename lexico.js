@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                             ${sectionData.wordsByLetter[letter].map(word => `
                                 <tr>
                                     <td><strong>${word.english}</strong></td>
-                                    <td>${word.portuguese}</td>
+                                    <td>${word.portuguese || word.back}</td>
                                 </tr>
                             `).join('')}
                         </tbody></table>
